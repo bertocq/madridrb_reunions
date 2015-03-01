@@ -1,0 +1,1 @@
+["# Terracismo-rb #\n\n**Lugar:** Terraza Valle Hermoso<br/>\n**Hora:** 20:00h\n\nSiguiendo la tradición, en periodos estivales tratamos de soportar los rigores del clima de la capital en una terraza, con una cerveza (o refresco) y en compañía de lo más granado del rubismo madrileño (los que no han huido de Madrid, vaya).\n"]
