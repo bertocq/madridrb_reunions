@@ -96,12 +96,7 @@
         "month": "Agosto",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Terracismo.rb"
             }
         ],
@@ -114,12 +109,7 @@
         "month": "Agosto",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Terracismo.rb"
             }
         ],
@@ -154,12 +144,7 @@
         "month": "Agosto",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Terracismo-rb"
             }
         ],
@@ -370,12 +355,7 @@
         "month": "Febrero",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Lightning talks"
             }
         ],
@@ -433,12 +413,7 @@
         "month": "F\u00fatbol.rb Julio",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Partido de f\u00fatbol, \u00a1ap\u00fantate ya!"
             }
         ],
@@ -451,12 +426,7 @@
         "month": "Julio",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Terracismo.rb"
             }
         ],
@@ -469,12 +439,7 @@
         "month": "Julio",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Terracismo.rb"
             }
         ],
@@ -487,12 +452,7 @@
         "month": "Julio",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Terracismo-rb (no hay documentaci\u00f3n gr\u00e1fica)"
             }
         ],
@@ -707,12 +667,7 @@
         "month": "Mayo",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "Madrid-rb Cine Club: Rails 3"
             }
         ],
@@ -873,12 +828,7 @@
         "month": "Octubre",
         "topics": [
             {
-                "speakers": [
-                    {
-                        "name": null,
-                        "twitter": null
-                    }
-                ],
+                "speakers": null,
                 "title": "RejectConf"
             }
         ],

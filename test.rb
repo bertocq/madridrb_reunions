@@ -51,17 +51,19 @@ text.each_line do |line|
 	topics.map! do |topic|
 		title = topic[/(.*?)\"/,1]
 		speakers = topic[/\", con (.*?)$/,1].to_s
-
-		speakers_regex = /\[(.*?)\) y \[(.*?)\)$/
-		#if there is multiple speakers
-		if speakers[speakers_regex,0] 
-			speakers = [speakers[speakers_regex,1],speakers[speakers_regex,2]]
+		if speakers.empty?
+			speakers = nil
 		else
-			speakers = [speakers]
+			speakers_regex = /\[(.*?)\) y \[(.*?)\)$/
+			#if there is multiple speakers
+			if speakers[speakers_regex,0] 
+				speakers = [speakers[speakers_regex,1],speakers[speakers_regex,2]]
+			else
+				speakers = [speakers]
+			end
+			#compose each speakers data
+			speakers.map! {|speaker| compose_speaker(speaker.to_s) } 
 		end
-
-		#compose each speakers data
-		speakers.map! {|speaker| compose_speaker(speaker.to_s) } 
 
 		{:title => title, :speakers => speakers}
 	end
@@ -69,12 +71,12 @@ text.each_line do |line|
 	#get reunion markdown data
 	if link[/madridrb.jottit.com/,0] && link.ascii_only? #if its an internal link (en ascii)
 		#visit the url and get the content in markdown
-		doc = Nokogiri::HTML(open(link))
-		content = doc.css('#content_text').map(&:text)
+		#doc = Nokogiri::HTML(open(link))
+		#content = doc.css('#content_text').map(&:text)
 		
 		#write a file for the reunion
 		file = "#{month}_#{year}.md"
-		File.write("./reunions/#{file}", content)
+		#File.write("./reunions/#{file}", content)
 	end
 
 	reunions[month+"_"+year] = {:link => link, :date => date, :month => month, :year => year, :topics => topics, :file => file||nil}
