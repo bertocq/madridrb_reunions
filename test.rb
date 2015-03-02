@@ -11,6 +11,7 @@ end
 text=File.open('reunions.txt').read
 text.gsub!(/\r\n?/, "\n")
 text.gsub!(/“|”/,'"')
+text.gsub!(/–/,'-')
 
 reunions = Array.new
 
@@ -39,7 +40,7 @@ text.each_line do |line|
 		#guardamos el contenido
 		File.write("./reunions/#{month}_#{year}.md", content)
 	end
-	reunions.push({:link => link, :date => date, :month => month, :year => year, :title => title})
+	reunions.push({:link => link, :date => date, :month => month, :year => year, :title => title, :file => '#{month}_#{year}.md'})
 end
 
 #puts reunions

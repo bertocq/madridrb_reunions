@@ -21,7 +21,7 @@
 * **2012-10-25** - [[Octubre 2012]] - "Making code tastier through refactoring", con [Gabriel Ortuño](http://twitter.com/arctarus)
 * **2012-09-27** - [[Septiembre 2012]] - "The Ruby Object Model", con [Javier Lafora](http://twitter.com/eLafo)
 * **2012-08-30** - [[Agosto 2012]] - "Introducción al testing y al TDD", con [Raúl Naveiras](http://twitter.com/rnaveiras) y [Fernando Blat](http://twitter.com/ferblape)
-* **2012-07-25** - [[Julio 2012]] - Terracismo-rb (no hay documentación gráfica)
+* **2012-07-25** - [[Julio 2012]] - "Terracismo-rb (no hay documentación gráfica)"
 * **2012-06-28** - [[Junio 2012]] - “Metapresentación” con [Enrique García](https://twitter.com/#!/otikik)
 * **2012-05-31** - [[Mayo 2012]] - “MacRuby y RubyMotion” con [Mark Villacampa]
 * **2012-04-26** - [[Abril 2012]] - “Extending Ruby” con [Raúl Naveiras](http://twitter.com/rnaveiras)
@@ -32,18 +32,18 @@
 * **2011-11-24** - [[Noviembre 2011]] - “Cómo dejé de preocuparme por ser ágil y ahora no me importa en absoluto” con [David Calavera](http://twitter.com/#!/calavera)
 * **2011-10-27** - [[Octubre 2011]] - “JRuby en Webpop - Rhino y Akka” con [Mathias Biilmann](http://mathias-biilmann.net/)
 * **2011-09-29** - [[Septiembre 2011]] - “Si yo fuera una API” con [Raimond García](http://raimondgarcia.com)
-* **2011-08-25** - [[Agosto 2011]] - Terracismo.rb
-* **2011-07-28** - [[Julio 2011]] - Terracismo.rb
-* **2011-07-20** – Actividad especial: [[Fútbol.rb Julio 2011]] – Partido de fútbol, ¡apúntate ya!
+* **2011-08-25** - [[Agosto 2011]] - "Terracismo.rb"
+* **2011-07-28** - [[Julio 2011]] - "Terracismo.rb"
+* **2011-07-20** – Actividad especial: [[Fútbol.rb Julio 2011]] – "Partido de fútbol, ¡apúntate ya!"
 * **2011-06-30** – [[Junio 2011]] – “Streaming en Rails 3.1” con [Xavier Noria](http://twitter.com/fxn)
 * **2011-05-26** - [[Mayo 2011]] - “Sphinx vs Solr” con [Javier Ramírez](http://twitter.com/supercoco9) y [Paco Guzmán](http://twitter.com/pacoguzman)<br/>
 * **2011-04-28** - [[Abril 2011]] - “Tries, la pronunciación se deja como ejercicio para el lector” con [Sergio Arbeo](http://twitter.com/serabe)<br/>
 * **2011-03-31** - [[Marzo 2011]] - “_DOUBLE FEATURE_: Sequel + Pair Programming” con [Fernando Blat](http://twitter.com/ferblape) y [Jorge Dias](http://twitter.com/dias_jorge)<br/>
-* **2011-02-24** - [[Febrero 2011]] – “A g[r]eek talking about Heroku” con [Christos Zisopoulos](http://twitter.com/christos)
+* **2011-02-24** - [[Febrero 2011]] – “A geek talking about Heroku” con [Christos Zisopoulos](http://twitter.com/christos)
 * **2011-01-27** – [[Enero 2011]] – “A [git] workflow” con [Sergio Gil](http://twitter.com/porras)
 * **2010-12-30** – [[Diciembre 2010]] – “Coding Dojo” con [Enrique Comba](http://twitter.com/ecomba)
 * **2010-11-25** – [[Noviembre 2010]] – “Fibers in Ruby 1.9” con [Murray Steele](http://twitter.com/hlame)
-* **2010-11-03** – [Octubre 2010](https://rejectconf.jottit.com/) – “RejectConf
+* **2010-11-03** – [Octubre 2010](https://rejectconf.jottit.com/) – “RejectConf”
 * **2010-09-30** – [[Septiembre 2010]] – “RabbitMQ + Ruby” con [Guillermo Álvarez](http://twitter.com/guillermooo)
 * **2010-08-26** – [Agosto 2010](Terracismo.rb) – “Terracismo.rb”
 * **2010-07-26** – [Julio 2010](Terracismo.rb) – “Terracismo.rb”
