@@ -1,19 +1,24 @@
 gem 'nokogiri'
 require 'nokogiri'
 require 'open-uri'
+require 'json'
 
 #compone un link para obtener el contenido de una charla
 def composeLink (line)
 	'https://madridrb.jottit.com/' + line.downcase.sub(' ','_') + '?m=edit'
 end
-
+#devuelve un hash con el nombre y el twitter de un speaker
+def composeSpeaker (speaker)
+	{:name => speaker[/\[?(.*?)\]/,1], :twitter => speaker[/\((.*?)\)?$/,1]}
+end
 #leemos y limpiamos el fichero
 text=File.open('reunions.txt').read
 text.gsub!(/\r\n?/, "\n")
 text.gsub!(/“|”/,'"')
 text.gsub!(/–/,'-')
+text.gsub!("<br/>","")
 
-reunions = Array.new
+reunions = {}
 
 text.each_line do |line|
 	case line
@@ -31,6 +36,12 @@ text.each_line do |line|
 	month= line[/\[(.+) ([0-9]{4})\]/,1].sub("[","")
 	year= line[/\[(.+) ([0-9]{4})\]/,2]
 	title = line[/- \"(.*?)\"/,1]
+	speakers = line[/\", con (.*?)$/,1]
+	if speakers.to_s[/(.*?)\) y \[(.*?)/,0] #si hay varios speakers, los separamos en un array
+		speakers = [composeSpeaker(speakers.to_s[/(.*?)\) y \[(.*?)$/,1]), composeSpeaker(speakers.to_s[/(.*?)\) y \[(.*?)$/,2])]
+	else
+		speakers = [composeSpeaker(speakers.to_s)]
+	end
 
 	if link[/madridrb.jottit.com/,0] && link.ascii_only? #si es un link interno (en ascii)
 		#visitamos el link
@@ -39,9 +50,13 @@ text.each_line do |line|
 		
 		#guardamos el contenido
 		File.write("./reunions/#{month}_#{year}.md", content)
+		file = "#{month}_#{year}.md"
 	end
-	reunions.push({:link => link, :date => date, :month => month, :year => year, :title => title, :file => '#{month}_#{year}.md'})
+
+	reunions[month+"_"+year] = {:link => link, :date => date, :month => month, :year => year, :title => title, :speakers => speakers, :file => file||nil}
 end
 
-#puts reunions
+#escribimos el fichero con los datos básicos de las reuniones		
+File.write("./reunions.json", reunions.to_json)
+
 
