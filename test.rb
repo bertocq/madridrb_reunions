@@ -24,20 +24,20 @@ reunions = {}
 
 text.each_line do |line|
 	case line
-
-  	#There is a link on the title
-  	when /[0-9]{4}\]\(.*?\)/
+  	
+  	when /[0-9]{4}\]\(.*?\)/ #There is a link on the title
   		link = line[/[0-9]{4}\]\((.*?)\)/,1]
   		#If there is no 'http' its an internal link
-  		unless link[/http/,0] then link = compose_link link end
-  	#The link is the title itself
-  	when /\[\[.*?\]\]/
+  		link = compose_link link unless link[/http/,0]
+  	
+  	when /\[\[.*?\]\]/ #The link is the title itself
   		link = compose_link line[/\[\[(.*?)\]\]/,1]
+
 	end
 
   	date = line[/\*\*(.*?)\*\*/,1]
-	month= line[/\[(.+) ([0-9]{4})\]/,1].sub("[","")
-	year= line[/\[(.+) ([0-9]{4})\]/,2]
+	month = line[/\[(.+) ([0-9]{4})\]/,1].sub("[","")
+	year = line[/\[(.+) ([0-9]{4})\]/,2]
 	
 	topics = []
 	topics_regex = /- \"(.*? con \[.*?\)) y \"(.*? con \[.*?\))$/
@@ -51,6 +51,7 @@ text.each_line do |line|
 	topics.map! do |topic|
 		title = topic[/(.*?)\"/,1]
 		speakers = topic[/\", con (.*?)$/,1].to_s
+
 		if speakers.empty?
 			speakers = nil
 		else
@@ -71,12 +72,12 @@ text.each_line do |line|
 	#get reunion markdown data
 	if link[/madridrb.jottit.com/,0] && link.ascii_only? #if its an internal link (en ascii)
 		#visit the url and get the content in markdown
-		#doc = Nokogiri::HTML(open(link))
-		#content = doc.css('#content_text').map(&:text)
+		doc = Nokogiri::HTML(open(link))
+		content = doc.css('#content_text').map(&:text)
 		
 		#write a file for the reunion
 		file = "#{month}_#{year}.md"
-		#File.write("./reunions/#{file}", content)
+		File.write("./reunions/#{file}", content)
 	end
 
 	reunions[month+"_"+year] = {:link => link, :date => date, :month => month, :year => year, :topics => topics, :file => file||nil}
