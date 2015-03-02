@@ -80,8 +80,8 @@ text.each_line do |line|
     File.write("./reunions/#{file}", content)
   end
 
-  reunions[month + '_' + year] = { link: link, date: date, month: month, year: year,
-                                   topics: topics, file: file || nil }
+  reunions[month + '_' + year] = { link: link, date: date, month: month,
+                                   year: year, topics: topics, file: file || nil }
 end
 
 # write json file with all gathered data
