@@ -4,13 +4,22 @@ require 'open-uri'
 require 'json'
 
 # compose the link to get the reunion data un markdown
-def compose_link(line)
+def compose_link line
   'https://madridrb.jottit.com/' + line.downcase.sub(' ', '_') + '?m=edit'
 end
 
 # returns a hash with the name and twitter url for a given speaker link
-def compose_speaker(speaker)
+def compose_speaker speaker
   { name: speaker[/\[?(.*?)\]/, 1], twitter: speaker[/\((.*?)\)?$/, 1] }
+end
+
+def set_speakers speakers
+  speakers_regex = /\[(.*?)\) y \[(.*?)\)$/
+  # if there is multiple speakers
+  speakers = speakers[speakers_regex, 0]  ? [speakers[speakers_regex, 1], speakers[speakers_regex, 2]]
+                                          : [speakers]
+  # compose each speakers data
+  speakers.map! { |speaker| compose_speaker(speaker.to_s) }
 end
 
 # read and clean format of the file
@@ -24,48 +33,32 @@ reunions = {}
 
 text.each_line do |line|
   case line
+    when /[0-9]{4}\]\(.*?\)/ # There is a link on the title
+      link = line[/[0-9]{4}\]\((.*?)\)/, 1]
+      # If there is no 'http' its an internal link
+      link = compose_link link unless link[/http/, 0]
 
-  when /[0-9]{4}\]\(.*?\)/ # There is a link on the title
-    link = line[/[0-9]{4}\]\((.*?)\)/, 1]
-    # If there is no 'http' its an internal link
-    link = compose_link link unless link[/http/, 0]
-
-  when /\[\[.*?\]\]/ # The link is the title itself
-    link = compose_link line[/\[\[(.*?)\]\]/, 1]
-
+    when /\[\[.*?\]\]/ # The link is the title itself
+      link = compose_link line[/\[\[(.*?)\]\]/, 1]
   end
 
-  date = line[/\*\*(.*?)\*\*/, 1]
+  date  = line[/\*\*(.*?)\*\*/, 1]
   month = line[/\[(.+) ([0-9]{4})\]/,  1].sub('[', '')
-  year = line[/\[(.+) ([0-9]{4})\]/, 2]
+  year  = line[/\[(.+) ([0-9]{4})\]/, 2]
 
   topics = []
   topics_regex = /- \"(.*? con \[.*?\)) y \"(.*? con \[.*?\))$/
-  if line[topics_regex, 0] # there are multiple topics
-    topics = [line[topics_regex, 1], line[topics_regex, 2]]
-  else
-    topics = [line[/- \"(.*?)$/, 1]]
-  end
+  
+  topics = line[topics_regex, 0]  ? [line[topics_regex, 1], line[topics_regex, 2]] # there are multiple topics
+                                  : [line[/- \"(.*?)$/, 1]]
 
   # for each topic get the title and speakers
   topics.map! do |topic|
-    title = topic[/(.*?)\"/, 1]
-    speakers = topic[/\", con (.*?)$/, 1].to_s
-
-    if speakers.empty?
-      speakers = nil
-    else
-      speakers_regex = /\[(.*?)\) y \[(.*?)\)$/
-      # if there is multiple speakers
-      if speakers[speakers_regex, 0]
-        speakers = [speakers[speakers_regex, 1], speakers[speakers_regex, 2]]
-      else
-        speakers = [speakers]
-      end
-      # compose each speakers data
-      speakers.map! { |speaker| compose_speaker(speaker.to_s) }
-    end
-
+    title     = topic[/(.*?)\"/, 1]
+    speakers  = topic[/\", con (.*?)$/, 1].to_s
+    
+    speakers  = speakers.empty? ? nil : set_speakers(speakers)
+          
     { title: title, speakers: speakers }
   end
 
