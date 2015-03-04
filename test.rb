@@ -1,7 +1,43 @@
-gem 'nokogiri'
 require 'nokogiri'
 require 'open-uri'
 require 'json'
+
+# spinner on the console, just 4 the lulz (http://stackoverflow.com/a/10263337)
+def show_wait_spinner(fps=10)
+  chars = %w[| / - \\]
+  delay = 1.0/fps
+  iter = 0
+  spinner = Thread.new do
+    while iter do  # Keep spinning until told otherwise
+      print chars[(iter+=1) % chars.length]
+      sleep delay
+      print "\b"
+    end
+  end
+  yield.tap{       # After yielding to the block, save the return value
+    iter = false   # Tell the thread to exit, cleaning up after itself…
+    spinner.join   # …and wait for it to do so.
+  }                # Use the block's return value as the method's
+end
+
+# if reunions.txt doesn't exist, read content from interwebz and store it
+def read_reunions_list
+  reunions_file = './reunions.txt'
+  if !File.exist?(reunions_file)
+    puts 'Accesing https://madridrb.jottit.com/?m=edit'
+    show_wait_spinner{
+      reunions_list = ''
+      doc = Nokogiri::HTML(open('https://madridrb.jottit.com/?m=edit'))
+      content = doc.css('#content_text').map(&:text)
+      content[0].to_s.scan(/\* \*(.*?)$/).each do |line|
+        reunions_list << line[0]+"\n"
+      end
+      File.write(reunions_file, reunions_list)
+    }
+    puts "Content retrieved and stored on #{reunions_file}"
+  end
+  File.open(reunions_file).read
+end
 
 # compose the link to get the reunion data un markdown
 def compose_link line
@@ -22,8 +58,10 @@ def set_speakers speakers
   speakers.map! { |speaker| compose_speaker(speaker.to_s) }
 end
 
-# read and clean format of the file
-text = File.open('reunions.txt').read
+# read list of reunions
+text = read_reunions_list
+
+# make some format corrections
 text.gsub!(/\r\n?/, '\n')
 text.gsub!(/“|”/, '"')
 text.gsub!(/–/, '-')
@@ -31,6 +69,7 @@ text.gsub!('<br/>', '')
 
 reunions = {}
 
+# lets gather each reunion's data
 text.each_line do |line|
   case line
     when /[0-9]{4}\]\(.*?\)/ # There is a link on the title
@@ -70,6 +109,7 @@ text.each_line do |line|
 
     # write a file for the reunion
     file = "#{month}_#{year}.txt"
+    puts "Writting file ./reunions/#{file}"
     File.write("./reunions/#{file}", content[0])
   end
 
@@ -78,4 +118,5 @@ text.each_line do |line|
 end
 
 # write json file with all gathered data
+puts 'Writting ./reunions.json'
 File.write('./reunions.json', reunions.to_json)
