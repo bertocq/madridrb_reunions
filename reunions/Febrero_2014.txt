@@ -4,7 +4,7 @@
 **Video:** [Vimeo](http://vimeo.com/88232111)
 
 
-# Hacking Social: Tras las líneas enemigas
+# Hacking social: tras las líneas enemigas
 
 Como desarrolladores nos pasamos la mayoría del tiempo hackeando: optimizando bases de datos, configurando servicios, integrándonos con APIs de terceros. Normalmente nos sentimos mucho más cómodos trabajando con máquinas que con personas. Sin embargo, tarde o temprano acabamos en un proyecto en el que tenemos que gestionar un equipo, un cliente o, peor, a nuestro jefe.
 

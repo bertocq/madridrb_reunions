@@ -23,7 +23,7 @@ end
 # if reunions.txt doesn't exist, read content from interwebz and store it
 def read_reunions_list
   reunions_file = './reunions.txt'
-  if !File.exist?(reunions_file)
+  unless File.exist?(reunions_file)
     puts 'Accesing https://madridrb.jottit.com/?m=edit'
     show_wait_spinner{
       reunions_list = ''
@@ -49,6 +49,7 @@ def compose_speaker speaker
   { name: speaker[/\[?(.*?)\]/, 1], twitter: speaker[/\((.*?)\)?$/, 1] }
 end
 
+# compose speaker list
 def set_speakers speakers
   speakers_regex = /\[(.*?)\) y \[(.*?)\)$/
   # if there is multiple speakers
@@ -103,14 +104,18 @@ text.each_line do |line|
 
   # get reunion markdown data
   if link[/madridrb.jottit.com/, 0] && link.ascii_only? # if its an internal link in ascii
-    # visit the url and get the content in markdown
-    doc = Nokogiri::HTML(open(link))
-    content = doc.css('#content_text').map(&:text)
-
-    # write a file for the reunion
-    file = "#{month}_#{year}.txt"
-    puts "Writting file ./reunions/#{file}"
-    File.write("./reunions/#{file}", content[0])
+    # txt file for each reunion
+    file = "./reunions/#{month}_#{year}.txt"
+    unless File.exist?(file)
+      show_wait_spinner{
+        puts "Getting content from #{url}"
+        # visit the url and get the content in markdown
+        doc = Nokogiri::HTML(open(link))
+        content = doc.css('#content_text').map(&:text)
+      }
+      puts "Writting file #{file}"
+      File.write(file, content[0])
+    end
   end
 
   reunions[month + '_' + year] = { link: link, date: date, month: month,
