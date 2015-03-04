@@ -13,5 +13,9 @@ ruby test.rb
 3. Visit every _(internal)_ link with the ?m=edit option to access the markdown version of the reunion, and store the content in the correspondent mont_year.txt file under **./reunions** directory _(the file for the link https://madridrb.jottit.com/f%C3%BAtbol.rb_julio_2011 needs to be retrieved manually because the non-ascii character)_
 
 
+To force the download of data from jottit.com overwriting existing files use:
 
+```
+ruby test.rb -d
+```
 

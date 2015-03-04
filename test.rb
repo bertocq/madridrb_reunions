@@ -21,9 +21,9 @@ def show_wait_spinner(fps=10)
 end
 
 # if reunions.txt doesn't exist, read content from interwebz and store it
-def read_reunions_list
+def read_reunions_list force_download
   reunions_file = './reunions.txt'
-  unless File.exist?(reunions_file)
+  if force_download || !File.exist?(reunions_file)
     puts 'Accesing https://madridrb.jottit.com/?m=edit'
     show_wait_spinner{
       reunions_list = ''
@@ -59,8 +59,11 @@ def set_speakers speakers
   speakers.map! { |speaker| compose_speaker(speaker.to_s) }
 end
 
+
+force_download = ARGV[0] == '-d'
+
 # read list of reunions
-text = read_reunions_list
+text = read_reunions_list force_download
 
 # make some format corrections
 text.gsub!(/\r\n?/, '\n')
@@ -106,15 +109,15 @@ text.each_line do |line|
   if link[/madridrb.jottit.com/, 0] && link.ascii_only? # if its an internal link in ascii
     # txt file for each reunion
     file = "./reunions/#{month}_#{year}.txt"
-    unless File.exist?(file)
+    if force_download || !File.exist?(file)
       show_wait_spinner{
-        puts "Getting content from #{url}"
+        puts "Getting content from #{link}"
         # visit the url and get the content in markdown
         doc = Nokogiri::HTML(open(link))
         content = doc.css('#content_text').map(&:text)
+        puts "Writting file #{file}"
+        File.write(file, content[0])
       }
-      puts "Writting file #{file}"
-      File.write(file, content[0])
     end
   end
 
