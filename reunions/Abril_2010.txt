@@ -1,0 +1,22 @@
+# Por la gloria de REST #
+
+**Fecha:** Jueves, 29 de Abril de 2010<br/>
+**Hora:** 19:45h<br/>
+**Lugar:** Aula The Cocktail
+
+Hace diez años Roy Fielding describía el concepto REST en la tesis de su doctorado. Hace tres, Rails 1.2 abrazaba el concepto y lo convertía en una de sus convenciones principales. Hoy, no hay servicio en Internet que se precie que no tenga una API que no clame seguir los principios REST.
+
+Sin embargo, el observador avezado encontrará que cada una de estas APIs implementa su particular interpretación de estos principios. Desde simples RPCs en XML, pasando por APIs estructuradas en recursos que además usan los verbos HTTP, hasta gloriosos servicios en los que los recursos están hiperenlazados y son auto-descubribles, el espectro de características de los servicios restful es amplio.
+
+En esta charla repasaremos los principios originales y todas estas características de las APIs restful. Lo haremos con un enfoque pragmático, desde las trincheras, tomando como referencia la implementación de una API en Rails y su cliente en Ruby.
+
+## Luismi Cavallé ##
+
+Desarrollador de software, lleva casi diez años en el oficio de construir aplicaciones web y en la búsqueda del camino con menos fricción a la excelencia. Todavía no lo ha encontrado, pero no pierde la fé. Actualmente está en medio del desarrollo de las APIs de BeBanjo, experiencia de la que está disfrutando como un enano.
+
+## Recursos ##
+
+* [Vídeo de la charla](http://vimeo.com/12859503)
+* [Roy Fielding's dissertation about REST](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+* [The Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
+* [Theme to Nowhere Standard Time](http://www.crummy.com/music/nst/lyrics.html#02)

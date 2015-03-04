@@ -1,0 +1,81 @@
+# Modelotes ActiveRecord
+
+**Fecha:** Jueves, 27 de Diciembre de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h<br/>
+**Vídeo:** [Vimeo](http://vimeo.com/57356569)
+
+“Skinny Controllers” es una práctica habitual en la comunidad Rails. Todo el mundo parece de acuerdo en que resulta beneficioso mantener los controladores lo más delgados posible. Sin embargo, lo que no genera tanto acuerdo es cómo de grandes es razonable que sean nuestros modelos y qué podemos hacer para evitar que acaben creciendo demasiado.
+
+En esta charla exploraremos esta problemática y discutiremos algunas de las variadas soluciones que propone la comunidad. En función de lo que permita el tiempo hablaremos de **Rails vs OOP**, **SOLID**, **ceremonia vs esencia**, **cohesión**, **el coste de la indirección**, **objetos de servicio (en varios sabores)**, **concerns**,  **DCI**…
+
+## Luismi Cavallé ([@cavalle](http://twitter.com/cavalle))
+
+Programador en [BeBanjo](http://bebanjo.com/). Contribuidor Open-Source. Speaker ocasional. Y, claramente, hoy no muy inspirado escribiendo esta descripción. Esperemos que lo esté el día de la charla.
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @cavalle
+* <strike>@happywebcoder</strike> :(
+* <strike>@savicas</strike> :(
+* @amaiac
+* @xuanxu
+* @sowe
+* @ferblape
+* [@elafo](https://twitter.com/eLafo)
+* @christos
+* [@pasku1](https://twitter.com/pasku1)
+* [@eLobatoss](https://twitter.com/elobatoss)
+* [@mgryszko](https://twitter.com/mgryszko)
+* @guillermooo
+* @estereoeo
+* @rnaveiras
+* @ferdev
+* @ltello
+* @ArturoHerrero
+* @colgado
+* @laura_morillo
+* @porras
+* @DonQuicong
+* @javierhonduco
+* @valakirka
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @samlown (espero!)
+* @grosshat
+* @parean
+* @afcapel
+* @pacoguzman
+* @dparracatalan
+* @lacebes
+* @_gaizka (si estoy en Madrid)
+* @joseluis
+* @ivanfdezperea
+* @germandz
+* @zipizap
+* @alfredo_casado
+* @doktor500
+* [@ecomba](https://twitter.com/ecomba)
+* [@xtremevoodoo](https://twitter.com/xtremevoodoo)
+* [@wchiquito](https://twitter.com/wchiquito)

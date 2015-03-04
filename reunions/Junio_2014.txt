@@ -1,0 +1,80 @@
+**Fecha:** Jueves, 26 de Junio de 2014 <br/>
+
+###CUIDADO, SITIO NUEVO!
+
+**Lugar:** [The Irish Rover](http://www.theirishrover.com/)
+- [Avenida de Brasil, 7](https://www.google.com/maps/place/The+Irish+Rover/@40.4549437,-3.6936623,17z/data=!4m7!1m4!3m3!1s0xd422902b93a7b4f:0xcdf2773b21bd0810!2sAv+de+Brasil,+7!3b1!3m1!1s0x0:0xac5dccb9e6db0dd5)
+
+**Hora:** 19:45h<br/>
+**Video:** [Vimeo](https://vimeo.com/110196699)
+
+
+# RubyMotion, desarrollo móvil en Ruby
+
+Introducción al desarrollo móvil en RubyMotion, toolchain, primeros pasos, y por qué es una herramienta perfecta para desarrolladores de Ruby.
+
+## Marcos Villacampa ([@MarkVillacampa](https://twitter.com/MarkVillacampa))
+
+Developer en [Cabify](http://www.cabify.es/), lleva trabajando con RubyMotion desde que fue presentado hace 2 años. Apasionado del hardware, las startups, el TDD y DHH.
+
+## Ofrecido por:
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+[Edita](?m=edit) esta página si tienes pensado asistir. Nos ayuda con la gestión del espacio. ¡Gracias!
+
+* ([@MarkVillacampa](https://twitter.com/MarkVillacampa))
+* @otikik
+* [@Serabe](https://twitter.com/Serabe)
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @samlown
+* [@fesotovi](https://twitter.com/fesotovi)
+* @acw5
+* @lparedesdev
+* @oinak
+* @arpahector
+* [@arctarus](https://twitter.com/arctarus)
+* David Z
+* [@martincabrera](https://twitter.com/martincabrera)
+* [@servatj](https://twitter.com/servatj)
+* @jfvaldesg
+* [@joseferrer](https://twitter.com/joseferrer)
+* [@jacklondon84](https://twitter.com/jacklondon84)
+* @patriciagao
+* [@josal](https://twitter.com/josal)
+* Andrés Barriga
+* [@oinak](https://twitter.com/oinak)
+* Gustavo Caso
+* jose luis
+* [@Juanchote](https://twitter.com/Juanchote)
+* [@gerardobarciap](http://www.gerardobarcia.com)
+* @SebasDesimone
+* [@apradillap](https://twitter.com/apradillap)
+* [@javier_dev](https://twitter.com/javier_dev)
+* [@raulmarcosl](https://twitter.com/raulmarcosl)
+* [@martafonda](https://twitter.com/martafonda)
+* [@lapenya](https://twitter.com/lapenya)
+* [@jamarinhidalgo](https://twitter.com/jamarinhidalgo)
+* [@azaru](https://twitter.com/azaru)
+* [@gootyfer](https://twitter.com/gootyfer)
+* [@based_err3](https://twitter.com/based_err3)
+* @colgado
+* @_abnz
+* @doktor500
+* @laura_morillo
+* @amartinfraguas
+* @jorgesangarr

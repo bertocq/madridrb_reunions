@@ -1,0 +1,74 @@
+# The Ruby Object Model
+
+**Fecha:** Jueves, 27 de Septiembre de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+En ruby todo es un objeto, ¿pero es todo el mismo objeto? Con esta charla voy a intentar explicar el modelado de objetos de ruby, o lo que es lo mismo, explicar qué es lo que está haciendo ruby por debajo cuando defines una clase, creas una instancia, incluyes un módulo...
+
+## Javier Lafora ([@eLafo](http://twitter.com/eLafo))
+
+Soy un ex-estudiante de medicina que, tras cuatro años de carrera, decidió cambiar de aires y dedicarse a la informática. Llevo programando desde los 10 años y he pasado por Basic, Pascal, C, C++, PHP, Python, Java y Ruby. En la actualidad soy desarrollador web en [ASPgems](http://aspgems.com). Fuera de este mundo de frikis con gafas de pasta y bolis de cuatro colores, soy un apasionado de la F1, la guitarra, el poker y la cerveza.
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @otikik
+* @joshka20
+* @elafo
+* @mr_solo
+* @therobot 
+* @supercoco9
+* @oinak
+* @laura_morillo
+* @jdevega
+* @arctarus
+* @manu1621
+* @moises_macia
+* @zipizap
+* @acasado
+* @MarkVillacampa
+* @nestorsalceda
+* @carlossanchezp
+* @argami_
+* @ArturoHerrero
+* @jmdlta
+* @amaiac
+* @fesotovi
+* @ferblape
+* @emacip
+* @ltello
+* @malahe_jc
+* @informaticatres
+* @acw5
+* @wchiquito
+* @entantoencuanto
+* @capitan_ted
+* @dparracatalan
+* @ignaciodejuan
+* @mikelodeon
+* @diec123
+* @ciscou
+* @christos
+* @oinak

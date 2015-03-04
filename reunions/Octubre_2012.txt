@@ -1,0 +1,66 @@
+# Making code tastier through refactoring
+
+**Fecha:** Jueves, 25 de Octubre de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h<br/>
+**Vídeo:** [vimeo](https://vimeo.com/52987852)
+
+Todos hemos trabajando alguna vez con una aplicación con código legacy. Refactoring es una técnica que nos permite reestructurar y rediseñar el código de nuestra aplicación sin modificar su comportamiento de forma que sea más legible y más fácil de mantener. Veremos las ventajas e inconvenientes de refactoring así como algunas de las técnicas principales que se aplican durante una refactorización.
+
+## Gabriel Ortuño ([@arctarus](http://twitter.com/arctarus))
+
+Desde que llegué a Madrid a finales de 2006 he hecho un viaje por el mundo de la programación que me ha llevado desde el front-end hasta el back-end debido principalmente al haber descubierto ruby por el camino hace ya 5 años. Desde ese momento me empecé a interesar por las metodologías ágiles, el TDD y por el refactoring.
+
+Últimamente he ayudado a organizar la Confenrencia Rails 2011 y la Spain.js, trabajo en [ASPgems](http://aspgems.com/) y tengo un pet project dedicado al mundo de la cocina llamado [rezets.com](http://rezets.com/).
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @otikik
+* @arctarus
+* @ferblape
+* @emacip
+* [@eLafo](https://twitter.com/eLafo)
+* @ciscou
+* @jglongaron
+* @pasku1
+* [@diec123](https://twitter.com/diec123)
+* @keyvanakbary
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @ltello
+* @apenav
+* @anler
+* @migupl
+* @moises_macia
+* @celeduc
+* @joaquinzrr
+* @manolomaldonado
+* @oinak
+* @DonQuicong
+* @dparracatalan
+* @hopitawm
+* @jdevega
+* @acw5
+* [@entantoencuanto](https://twitter.com/entantoencuanto)
+* [@joshka20](https://twitter.com/joshka20)

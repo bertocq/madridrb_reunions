@@ -1,0 +1,19 @@
+# Madrid-rb Cine Club: Rails 3 #
+
+**Fecha:** Jueves, 27 de Mayo de 2010<br/>
+**Hora:** 19:45h<br/>
+**Lugar:** Aula The Cocktail
+
+Rails 3 está a la vuelta de la esquina y para preparar su llegada en la próxima reunión del grupo proyectaremos y charlaremos acerca de estos Railscasts:
+
+- Rails 3 Beta and RVM
+- Bundler
+- Active Record Queries in Rails 3
+- Routing in Rails 3
+- XSS Protection in Rails 3
+- Action Mailer in Rails 3
+- ERB Blocks in Rails 3
+- Validations in Rails 3
+- Advanced Queries in Rails 3
+
+Nos vemos!

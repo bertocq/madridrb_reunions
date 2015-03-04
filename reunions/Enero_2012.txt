@@ -1,0 +1,103 @@
+# Backbone + Rails + Handlebars = Éxito
+
+**Fecha:** Jueves, 26 de Enero de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/), Calle Duque de Rivas 5, Madrid. ([mapa](http://g.co/maps/4ktdg))<br/>
+**Hora:** 19:45h
+
+En esta charla Germán nos contará su experiencia compartiendo plantillas [handlebars](http://handlebarsjs.com/) tanto en el servidor (con Rails) como en el cliente (con [Backbone](http://backbonejs.org/)).
+
+
+
+### German Del Zotto ( [@GermanDZ](https://twitter.com/#!/GermanDZ) )
+
+Ésto es lo que cuenta German de sí mismo:
+
+"Me gusta formar parte de equipos que resuelven problemas de negocios. Demasiado pragmático y nuevo en el mundo Ruby/Rails. Ahora enfocado a que las ideas de los emprendedores tecnológicos lleguen a buen puerto."
+
+Actualmente German trabaja en [1uptalent](http://1uptalent.com/).
+
+
+## Material utilizado durante la presentación: ##
+
+Slides: [http://hbsdemo.heroku.com/slides/](http://hbsdemo.heroku.com/slides/)
+
+Demo: [http://hbsdemo.heroku.com](http://hbsdemo.heroku.com)
+
+Fuentes: [https://github.com/germandz/hbs_demo](https://github.com/germandz/hbs_demo)
+
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+¿Vienes? Apúntate [editando](?m=edit) esta página
+
+* @cavalle
+* @christos
+* @marcelinollano
+* @miguellc
+* @otikik
+* @eamodeorubio
+* @mcberros
+* @arctarus
+* @tomasborrella
+* @germandz
+* @pasku1
+* @gnufede
+* @serabe
+* @ferdev
+* @amaiac
+* @oinak
+* @aelena
+* @emacip
+* @topowanda
+* @pantulis
+* @el_verdor
+* @juljimm
+* @kanedaki
+* @rafaelrebolleda
+* @alexeiras
+* @RafaDiazNovo
+* @agilm
+* @valakirka
+* @mikelci
+* @acw5
+* @porras
+* @edu
+* @nestorsalceda
+* @samlown
+* @amuino
+* @luisico
+* @blogatclock
+* @migupl
+* @fsainz
+* @ariera
+* @wchiquito
+* @adrianmg
+* @dani_capello
+* @rnaveiras
+* @apardo
+* @juanparraga
+* @alexrodriguez
+* @afcapel
+* @satrapa
+* @mikelodeon
+* @zipizap

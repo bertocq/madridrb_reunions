@@ -1,0 +1,60 @@
+**Fecha:** Jueves, 30 de Enero de 2014 <br/>
+**Lugar:** [Utopic_US US3](http://www.utopicus.es/) ([c/ Colegiata 9](https://www.google.com/maps/preview#!q=Calle+Colegiata%2C+9%2C+Madrid%2C+Spain&data=!4m10!1m9!4m8!1m3!1d203964!2d-3.6795367!3d40.4378271!3m2!1i1436!2i806!4f13.1))<br/>
+**Hora:** 19:45h<br/>
+**Video:** [Vimeo](https://vimeo.com/88137764)
+
+
+# Lua for Rubysts
+
+Lua is a small, fast language that is discretely being embedded in an increasing number of systems. On this talk, we'll learn what problems does it solve, what are its main assumptions, and how it compares with ruby. We'll also explore some of its real-life scenarios and tools where it's used, and how it can help you as ruby developers.
+
+## Enrique García Cota ([@otikik](https://twitter.com/otikik))
+
+I love programming; it's a profession where you never stop learning. I believe that software can change society, and I am fascinated by open source. I have a very active [github account](https://github.com/kikito) with lots of incomplete projects, most of them in Lua.
+
+I currently manage the [madridrb](https://madridrb.jottit.com) group and work as a web developer at [3scale](http://www.3scale.net/).
+
+## Offered by ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Participants
+
+*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+
+* @otikik
+* @pasku1
+* @amaiac
+* @oinak
+* @xuanxu
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @joseferrer
+* [@serabe](https://twitter.com/serabe)
+* [@viddobambam](https://twitter.com/viddobambam)
+* joseluis
+* djtachu
+* [@arctarus](https://twitter.com/arctarus)
+* mroguzman
+* [@argami_](https://twitter.com/argami_)
+* [@cesc_vilanova](https://twitter.com/Cesc_Vilanova)
+* [@ereslibre](https://twitter.com/ereslibre)
+* [@ferblape](https://twitter.com/ferblape)
+* [@aalbagarcia](https://twitter.com/aalbagarcia)
+* @ciscou
+* [@javier_dev](https://twitter.com/javier_dev)
+* @alexrzl
+* [@miguepiscy](https://twitter.com/miguepiscy)
+* @acw5
+* @lparedesdev

@@ -1,0 +1,66 @@
+**Fecha:** Jueves, 21 de Marzo de 2013<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h<br/>
+**Vídeo:** [Vimeo](http://vimeo.com/63884581)
+
+# The Javascript Horror Show
+
+¿Programador de Ruby? ¿Te ves forzado a hacer algunas cosillas con JavaScript? ¿Piensas que te basta con saber algo jQuery, backbone o programar en CoffeeScript? En esta charla el ponente mostrará los WTFs más comunes e importantes de JS y tratará de explicar porqué se producen. Abstenerse programadores sensibles o con problemas cardíacos.
+
+### Enrique Amodeo ([@eamodeorubio](http://www.twitter.com/eamodeorubio))
+
+Freelance independiente con 12 años de experiencia, experto en JS y Rubista en sus ratos libres. Lleva practicando TDD/BDD y agilismo desde 2005. Coorganizador de [MadridJS](madridjs.org) y de la conferencia internacional [SpainJS](http://spainjs.org/). Ha escrito [el primer libro sobre APIs REST/Hypermedia en español](https://leanpub.com/introduccion_apis_rest) (que él sepa): . De vez en cuando se deja caer con alguna charla, ya sea en algún grupo local o en alguna conferencia. Actualmente proporciona coaching sobre JS, TDD/BDD y diseño de APIs web. Si te lo encuentras en un bar, invítale a una caña.
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @aeroalquimia
+* @otikik
+* @eamodeorubio
+* @amaiac
+* @pasku1
+* @rnaveiras
+* @mcberros
+* @pacoguzman
+* @colgado
+* @antarticonorte
+* @germandz
+* @amartinfraguas
+* @jmanrubia
+* @javierhdez3
+* joseluis
+* @samlown
+* @juergas
+* @diec123
+* @ciscou
+* @rafadiaznovo
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @oinak
+* @carlosonsoft
+* @antoniodfr
+* @mr_solo
+* @matallo
+* @acw5
+* @adrpz
+* @algohace
+* @laura_morillo
+* @joseferrer

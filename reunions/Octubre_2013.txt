@@ -1,0 +1,89 @@
+**Fecha:** Jueves, 24 de Octubre de 2013 (*¡Cuidado!: esta vez es el __penúltimo__ jueves del mes*) <br/>
+**Lugar:** [Utopic_US US3](http://www.utopicus.es/) ([c/ Colegiata 9](https://www.google.com/maps/preview#!q=Calle+Colegiata%2C+9%2C+Madrid%2C+Spain&data=!4m10!1m9!4m8!1m3!1d203964!2d-3.6795367!3d40.4378271!3m2!1i1436!2i806!4f13.1))<br/>
+**Hora:** 19:45h<br/>
+**Video:** [Vimeo](http://vimeo.com/78712143)
+
+# Bajar del monorraíl: microservicios
+
+Durante 6 años, [SoundCloud](https://soundcloud.com/) ha corrido sobre Rails, mientras crecía de 0 a millones de usuarios. También, de un puñado de gente a más de 200 empleados. Como parte del reto, tuvimos que separar nuestra aplicación Rails monolítica en muchos microservicios. En esta charla compartiremos lo que hemos aprendido acerca de ejecutar e integrar servicios, mientras escalábamos no sólo en tráfico sino también en tamaño del equipo.
+
+## Sergio Gil ([@porras](https://twitter.com/porras))
+
+Sergio es un viejo conocido del grupo y ya ha hablado en un par de ocasiones. Lleva unos cuantos años dándole al Ruby en compañías bien conocidas para la comunidad como [The Cocktail](http://the-cocktail.com/) y [BeBanjo](http://www.bebanjo.com/). Se mudó a Berlín por amor al currywurst, la cosa se le complicó y acabó trabajando en SoundCloud. Si para la fecha el Atleti sigue por delante del Madrid en la liga, dará la charla de rojiblanco.
+
+## Vitor Pellegrino ([@pellegrino](https://twitter.com/pellegrino))
+
+Vitor cambió Brasil por Berlín para trabajar en SoundCloud. Tiene un montón de experiencia trabajando con Ruby y Rails para distintas compañías en Brasil y EEUU. Se muere de ganas de dar su primera charla en español. Sólo conoce los callos de oídas, pero para cuando esta charla llegue ese problema ya estará solucionado (o a punto de solucionarse).
+
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+
+* [@martincabrera](https://twitter.com/martincabrera)
+* @porras
+* @pellegrino
+* @otikik
+* @joseferrer
+* @arctarus
+* @xuanxu
+* @serabe
+* @_gaizka
+* @fertapric
+* @diec123
+* @pantulis
+* @pasku1
+* @AlvarOS_anchez
+* @antoniojrossi
+* @colgado
+* <del>@lparedesdev</del>
+* @alexeiras
+* @amaiac
+* @michaelkoper
+* [@ViddoBamBam](http://www.twitter.com/ViddoBamBam)
+* @patriciagao
+* [@amartinj](http://www.twitter.com/amartinj)
+* [@lorenzoplanas](http://www.twitter.com/lorenzoplanas)
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* [@jorgealvarez](https://twitter.com/jorgealvarez)
+* [@imanolcg](http://www.twitter.com/imanolcg)
+* [@sergioshernand](http://www.twitter.com/sergioshernand)
+* @mroguzman
+* @amartinfraguas
+* @borjafv
+* @jglongaron
+* @samlown
+* [@sesperanto](http://twitter.com/sesperanto)
+* @jmanrubia
+* @ereslibre
+* @aalmenar
+* @rocknrollesque
+* @arpahector
+* @lacebes
+* @oinak
+* @crdelossantos
+* @littlemove
+* @mazur
+* @algohace
+* [@e_gimenez](http://www.twitter.com/e_gimenez)
+* [@wchiquito](http://www.twitter.com/wchiquito)
+* [@jfcalvo](https://twitter.com/jfcalvo)
+* @ciscou
+* @acw5
+* [@eferro](http://www.twitter.com/eferro)

@@ -1,0 +1,78 @@
+**Date:** Thursday, April 24th 2014 <br/>
+
+###CAUTION, NEW VENUE!
+
+**Venue:** [The Irish Rover](http://www.theirishrover.com/)
+- [Avenida de Brasil, 7](https://www.google.com/maps/place/The+Irish+Rover/@40.4549437,-3.6936623,17z/data=!4m7!1m4!3m3!1s0xd422902b93a7b4f:0xcdf2773b21bd0810!2sAv+de+Brasil,+7!3b1!3m1!1s0x0:0xac5dccb9e6db0dd5)
+
+**Time:** 19:45h<br/>
+**Video:** [Vimeo](http://vimeo.com/96569880)
+
+
+# Finding Restfulness
+
+Like me, you may have noticed that something is a little "off" when creating REST APIs in Ruby and Rails. In this talk we'll take a journey to discover some of the confusing parts of the existing popular solutions and take a good look at the concept of interfaces orientated around resources. We'll then discover how the Restulfness library might be the panacea you can incorporate into your own projects and help you find the RESTful zen you've been searching for.
+
+## Sam Lown ([@samlown](https://twitter.com/samlown))
+
+Sam, CTO and co-founder of [Cabify](http://www.cabify.es/), is obsessed with finding elegant solutions to complex problems. He's been an active member in the Ruby community in Madrid since 2006 and helped co-found APRODEWEB, the organisation supporting La Conferencia Rails, SpainJS, and Madrid.rb. Sam has been involved with the development of a number of gems, including [`couchrest_model`](https://github.com/couchrest/couchrest_model), [`translate_columns`](https://github.com/samlown/translate_columns), and now [`restfulness`](https://github.com/samlown/restfulness).
+
+
+## Offered by:
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Attendees
+
+*([Edit](?m=edit) this page and add yourself to the list if you are planning to come)
+
+* @samlown
+* @otikik
+* @joseferrer
+* @ferblape y una tarjeta SD
+* @xuanxu
+* @pantulis
+* [@fesotovi](https://twitter.com/fesotovi)
+* @xaibot
+* @arpahector
+* @amaiac
+* [@arctarus](https://twitter.com/arctarus)
+* @ciscou
+* [@eLafo](https://twitter.com/eLafo)
+* @patriciagao
+* [@DonQuicong](https://twitter.com/DonQuicong)
+* David Z.
+* [@martincabrera](https://twitter.com/martincabrera)
+* @lparedesdev
+* josé luis
+* [@serabe](https://twitter.com/serabe)
+* @amartinfraguas
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* [@based_err3](https://twitter.com/based_err3)
+* Gustavo
+* @mazur
+* Andres Barriga
+* @africajam
+* @AlvarOS_anchez
+* [@MURTR4](https://twitter.com/MURTR4)
+* [@jaimeiniesta](https://twitter.com/jaimeiniesta)
+* @javiervidal
+* [@azaru](https://twitter.com/azaru)
+* [@gootyfer](https://twitter.com/gootyfer)
+* @michaelkoper
+* @omcateer
+* [@jfcalvo](https://twitter.com/jfcalvo)
+* [@mroguzman](https://twitter.com/mroguzman)
+* Etienne L.

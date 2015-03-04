@@ -1,0 +1,56 @@
+# Metapresentación
+
+Una presentación técnica sobre presentaciones técnicas.
+
+**Fecha:** Jueves, 28 de Junio de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+En esta presentación veremos algunas sencillas pautas para realizar presentaciones de tipo técnico de forma efectiva.
+
+Puede contener trazas de filmografía de los 80.
+
+### Enrique García Cota
+
+Enrique lleva 3 años trabajando en Ruby, aunque lleva trabajando más tiempo en proyectos web. En su tiempo libre experimenta lenguajes de programación, programa videojuegos y a veces le da el Sol. Preguntadle sobre Lua y tendréis charla para un rato.
+
+Enrique es [@otikik](https://twitter.com/#!/otikik) en Twitter y [kikito](http://github.com/kikito) en github.
+
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @otikik
+* @pasku1
+* @zipizap
+* @serabe
+* @arctarus
+* @ArturoHerrero
+* @xuanxu
+* @nestorsalceda
+* @andres
+* @amaiac
+* @laura_morillo
+* @apenav
+* @diec123

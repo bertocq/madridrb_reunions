@@ -1,0 +1,63 @@
+# Tries, la pronunciación se deja como ejercicio para el lector ([vídeo](http://vimeo.com/25850180))
+
+**Fecha:** Jueves, 28 de Abril de 2011<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+Que sirva esto como mensaje tranquilizador: no habrá _demasiado_ contenido matemático en la charla. Hablaremos de complejidad y de estructuras de datos, principalmente del trie.
+ 
+Las estructuras de datos son como los gadgets de Batman: el batrepelente de tiburones puede parecer lo más inútil del mundo hasta que el escualo se te engancha a la pierna. Por suerte, las estructuras de datos no ocupan tanto lugar (el _Art of Computer Programming_ en tapa dura no cuenta) ni las tienes que llevar en el <strike>cinturón</strike> batcinturón. Sospecho que tampoco sirve de mucho contra los [selacimorfos](http://es.wikipedia.org/wiki/Selachimorpha) [**Nota:** Pedantería patrocinada por _Saber y Ganar_]
+
+### Sergio Arbeo
+
+Sergio nació en Madrid, se crió en Madrid y vive en Madrid, pero por culpa de sus abuelos paternos no es gato puro. Tuvo la <strike>desgracia</strike> suerte de estudiar lo que quería desde pequeño: matemáticas. Friki de nacimiento, vocación y oficio (¿hay algo más friki que un ex-presidente de una asociación friki de la facultad de CC. Matemáticas?), aunque se programador sólo tiene las dos últimas (admitís que trabaje en Java, ¿verdad?). El tiempo libre lo dedica a sus tareas (siempre ha querido poner eso; bueno, eso y hablar de sí mismo en tercera persona).
+
+Twitter: [@serabe](http://twitter.com/Serabe)
+
+<iframe src="http://player.vimeo.com/video/25850180?color=dd4499" width="640" height="360" frameborder="0"></iframe>
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @serabe
+* @cavalle
+* @ferblape
+* @christos
+* @samlown
+* @lparedesdev
+* @mr_solo
+* @brunolerin
+* @choski7
+* @enriqueaf
+* @xuanxu (nunca hay _demasiado_ contenido matemático)
+* @eamodeorubio
+* @mcberros
+* @ferdev
+* @alvarodt
+* @porras
+* @ialcazar
+* @danimata
+* @valakirka
+* @arctarus
+* @apardo
+* @1hourl8r
+* @edu
+* @supercoco9
+* @alexeiras
+* @miguellc
+* @voodoorai2000
+* @pacoguzman
+* @yonosoytu
+* @jaimeiniesta
+* @amaiac
+* @oinak
+* @medinamanu
+* @zipizap
+* @wchiquito
+* @tastytune
+* @dias_jorge
+* @duende13
+* @javiervidal
+* @afcapel
+* @isanchezirtve

@@ -1,0 +1,72 @@
+**Fecha:** Jueves, 29 de Mayo de 2014 <br/>
+
+###CUIDADO, SITIO NUEVO!
+
+**Lugar:** [The Irish Rover](http://www.theirishrover.com/)
+- [Avenida de Brasil, 7](https://www.google.com/maps/place/The+Irish+Rover/@40.4549437,-3.6936623,17z/data=!4m7!1m4!3m3!1s0xd422902b93a7b4f:0xcdf2773b21bd0810!2sAv+de+Brasil,+7!3b1!3m1!1s0x0:0xac5dccb9e6db0dd5)
+
+**Hora:** 19:45h<br/>
+**Video:** [vimeo](http://vimeo.com/99116904)
+
+
+# ¿TDD como problema?
+
+David Heinemeier(DHH), un importante referente de la comunidad de desarrollo de Ruby y creador de Rails, ha generado mucha polémica entorno al mundo de los Tests. DHH afirmó que TDD está en vías de extinción  — al menos para él —, lo cual ha tenido una repercusión considerable a nivel mundial. ¿Está realmente TDD muerto? ¿Que conclusiones podemos sacar? ¿Cómo afecta esto al entorno Español?... ¡anótate al debate y lo averiguaremos juntos!.
+
+## Gerardo Barcia ([gerardobarcia.com](http://www.gerardobarcia.com))
+
+ Gerardo Barcia es  ingeniero en informática, gerente de proyectos, orador, instructor, emprendedor, escritor, desarrollador, bloguero, lector, soñador, líder y libre pensador. Le apasionan los negocios, el desarrollo de software, la gerencia estratégica y la gerencia de proyectos.
+
+
+
+## Ofrecido por:
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+[Edita](?m=edit) esta página si tienes pensado asistir. Nos ayuda con la gestión del espacio. ¡Gracias!
+
+* @otikik
+* [Gerardo Barcia](http://www.gerardobarcia.com)
+* [@apradillap](http://www.twitter.com/apradillap)
+* [@martincabrera](http://www.twitter.com/martincabrera)
+* [@eduard_io](http://twitter.com/eduard_io)
+* [@pasku1](http://twitter.com/pasku1)
+* [@sergiobaro](http://twitter.com/sergiobaro)
+* [@acw5](http://twitter.com/acw5)
+* Andrés Barriga
+* [@fesotovi](http://twitter.com/fesotovi)
+* [@ltello](http://twitter.com/ltello)
+* @patriciagao
+* joseluis
+* [@lparedesdev](http://twitter.com/lparedesdev)
+* @ciscou
+* @Rebequilla_p
+* [@arctarus](https://twitter.com/arctarus)
+* [@Juanxote](http://twitter.com/juanxote)
+* @servatj
+* Andres
+* @samlown
+* @apenav
+* @mroguzman
+* @jfcalvo
+* @colgado
+* @jamarinhidalgo
+* [@based_err3](http://twitter.com/based_err3)
+* @_abnz
+* Álex
+* @rul_foo 
+* [@demimismo](http://twitter.com/demimismo)

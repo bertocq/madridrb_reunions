@@ -1,1 +1,972 @@
-{"Junio_2014":{"link":"https://madridrb.jottit.com/junio_2014?m=edit","date":"2014-06-26","month":"Junio","year":"2014","topics":[{"title":"RubyMotion, desarrollo móvil en Ruby","speakers":[{"name":"Marcos Villacampa","twitter":"https://twitter.com/MarkVillacampa"}]}],"file":"Junio_2014.md"},"Mayo_2014":{"link":"https://madridrb.jottit.com/mayo_2014?m=edit","date":"2014-05-29","month":"Mayo","year":"2014","topics":[{"title":"¿TDD como problema?","speakers":[{"name":"Gerardo Barcia","twitter":"http://www.gerardobarcia.com/"}]}],"file":"Mayo_2014.md"},"Abril_2014":{"link":"https://madridrb.jottit.com/abril_2014?m=edit","date":"2014-04-24","month":"Abril","year":"2014","topics":[{"title":"Finding Restfulness","speakers":[{"name":"Sam Lown","twitter":"http://twitter.com/samlown"}]}],"file":"Abril_2014.md"},"Marzo_2014":{"link":"https://madridrb.jottit.com/marzo_2014?m=edit","date":"2014-03-27","month":"Marzo","year":"2014","topics":[{"title":"Ordenando las vistas. Decorator y Presenters","speakers":[{"name":"Carlos Sánchez Pérez","twitter":"http://twitter.com/carlossanchezp"}]}],"file":"Marzo_2014.md"},"Febrero_2014":{"link":"https://madridrb.jottit.com/febrero_2014?m=edit","date":"2014-02-27","month":"Febrero","year":"2014","topics":[{"title":"Hacking Social: Tras las líneas enemigas","speakers":[{"name":"Javier Lafora","twitter":"http://twitter.com/eLafo"}]}],"file":"Febrero_2014.md"},"Enero_2014":{"link":"https://madridrb.jottit.com/enero_2014?m=edit","date":"2014-01-30","month":"Enero","year":"2014","topics":[{"title":"Lua for Rubyists","speakers":[{"name":"Enrique García","twitter":"http://twitter.com/otikik"}]}],"file":"Enero_2014.md"},"Diciembre_2013":{"link":"https://madridrb.jottit.com/diciembre_2013?m=edit","date":"2013-12-26","month":"Diciembre","year":"2013","topics":[{"title":"Catacrockea a cascoporro con redis","speakers":[{"name":"Javier Ramírez","twitter":"http://twitter.com/supercoco9"}]}],"file":"Diciembre_2013.md"},"Noviembre_2013":{"link":"https://madridrb.jottit.com/noviembre_2013?m=edit","date":"2013-11-28","month":"Noviembre","year":"2013","topics":[{"title":"Ruby y Ciencia","speakers":[{"name":"Juanjo Bazán","twitter":"http://twitter.com/xuanxu"}]}],"file":"Noviembre_2013.md"},"Octubre_2013":{"link":"https://madridrb.jottit.com/octubre_2013?m=edit","date":"2013-10-24","month":"Octubre","year":"2013","topics":[{"title":"Bajar del monorraíl: microservicios","speakers":[{"name":"Sergio Gil","twitter":"http://twitter.com/porras"},{"name":"Vitor Pellegrino","twitter":"http://twitter.com/pellegrino"}]}],"file":"Octubre_2013.md"},"Septiembre_2013":{"link":"https://madridrb.jottit.com/septiembre_2013?m=edit","date":"2013-09-26","month":"Septiembre","year":"2013","topics":[{"title":"Croupier: probabilidades, muestras y enumerables","speakers":[{"name":"Sergio Arbeo","twitter":"http://twitter.com/serabe"}]}],"file":"Septiembre_2013.md"},"Agosto_2013":{"link":"https://madridrb.jottit.com/agosto_2013?m=edit","date":"2013-08-29","month":"Agosto","year":"2013","topics":[{"title":"Terracismo-rb","speakers":null}],"file":"Agosto_2013.md"},"Julio_2013":{"link":"https://madridrb.jottit.com/julio_2013?m=edit","date":"2013-07-25","month":"Julio","year":"2013","topics":[{"title":"Explotando relaciones de forma escalable con Neo4j","speakers":[{"name":"Alberto Perdomo","twitter":"http://twitter.com/albertoperdomo"}]}],"file":"Julio_2013.md"},"Junio_2013":{"link":"https://madridrb.jottit.com/junio_2013?m=edit","date":"2013-06-27","month":"Junio","year":"2013","topics":[{"title":"Introduction to RubyMotion","speakers":[{"name":"Laurent Sansonetti","twitter":"http://twitter.com/lrz"}]}],"file":"Junio_2013.md"},"Mayo_2013":{"link":"https://madridrb.jottit.com/mayo_2013?m=edit","date":"2013-05-30","month":"Mayo","year":"2013","topics":[{"title":"Mi dominio es mío y no lo comparto...","speakers":[{"name":"Javier Acero","twitter":"http://twitter.com/jacegu"}]}],"file":"Mayo_2013.md"},"Abril_2013":{"link":"https://madridrb.jottit.com/abril_2013?m=edit","date":"2013-04-25","month":"Abril","year":"2013","topics":[{"title":"Érase una vez, Ruby","speakers":[{"name":"Vicent Martí","twitter":"http://twitter.com/vmg"}]}],"file":"Abril_2013.md"},"Marzo_2013":{"link":"https://madridrb.jottit.com/marzo_2013?m=edit","date":"2013-03-21","month":"Marzo","year":"2013","topics":[{"title":"The Javascript Horror Show","speakers":[{"name":"Enrique Amodeo","twitter":"http://twitter.com/eamodeorubio"}]}],"file":"Marzo_2013.md"},"Febrero_2013":{"link":"https://madridrb.jottit.com/febrero_2013?m=edit","date":"2013-02-28","month":"Febrero","year":"2013","topics":[{"title":"MongoDB & Rails","speakers":[{"name":"Amaia Castro","twitter":"http://twitter.com/amaiac"}]},{"title":"Videojuegos en 2d + Competición","speakers":[{"name":"Adam Williams","twitter":"http://twitter.com/acw5"}]}],"file":"Febrero_2013.md"},"Enero_2013":{"link":"https://madridrb.jottit.com/enero_2013?m=edit","date":"2013-01-31","month":"Enero","year":"2013","topics":[{"title":"*Continuous Delivery* con Rails, Hudson y Heroku","speakers":[{"name":"Jorge Manrubia","twitter":"http://twitter.com/jmanrubia"}]}],"file":"Enero_2013.md"},"Diciembre_2012":{"link":"https://madridrb.jottit.com/diciembre_2012?m=edit","date":"2012-12-27","month":"Diciembre","year":"2012","topics":[{"title":"Modelazos ActiveRecord","speakers":[{"name":"Luismi Cavallé","twitter":"http://twitter.com/cavalle"}]}],"file":"Diciembre_2012.md"},"Noviembre_2012":{"link":"https://madridrb.jottit.com/noviembre_2012?m=edit","date":"2012-11-29","month":"Noviembre","year":"2012","topics":[{"title":"Coding Dojo","speakers":[{"name":"Enrique García","twitter":"http://twitter.com/otikik"}]}],"file":"Noviembre_2012.md"},"Octubre_2012":{"link":"https://madridrb.jottit.com/octubre_2012?m=edit","date":"2012-10-25","month":"Octubre","year":"2012","topics":[{"title":"Making code tastier through refactoring","speakers":[{"name":"Gabriel Ortuño","twitter":"http://twitter.com/arctarus"}]}],"file":"Octubre_2012.md"},"Septiembre_2012":{"link":"https://madridrb.jottit.com/septiembre_2012?m=edit","date":"2012-09-27","month":"Septiembre","year":"2012","topics":[{"title":"The Ruby Object Model","speakers":[{"name":"Javier Lafora","twitter":"http://twitter.com/eLafo"}]}],"file":"Septiembre_2012.md"},"Agosto_2012":{"link":"https://madridrb.jottit.com/agosto_2012?m=edit","date":"2012-08-30","month":"Agosto","year":"2012","topics":[{"title":"Introducción al testing y al TDD","speakers":[{"name":"Raúl Naveiras","twitter":"http://twitter.com/rnaveiras"},{"name":"Fernando Blat","twitter":"http://twitter.com/ferblape"}]}],"file":"Agosto_2012.md"},"Julio_2012":{"link":"https://madridrb.jottit.com/julio_2012?m=edit","date":"2012-07-25","month":"Julio","year":"2012","topics":[{"title":"Terracismo-rb (no hay documentación gráfica)","speakers":null}],"file":"Julio_2012.md"},"Junio_2012":{"link":"https://madridrb.jottit.com/junio_2012?m=edit","date":"2012-06-28","month":"Junio","year":"2012","topics":[{"title":"Metapresentación","speakers":[{"name":"Enrique García","twitter":"https://twitter.com/#!/otikik"}]}],"file":"Junio_2012.md"},"Mayo_2012":{"link":"https://madridrb.jottit.com/mayo_2012?m=edit","date":"2012-05-31","month":"Mayo","year":"2012","topics":[{"title":"MacRuby y RubyMotion","speakers":[{"name":"Mark Villacampa","twitter":null}]}],"file":"Mayo_2012.md"},"Abril_2012":{"link":"https://madridrb.jottit.com/abril_2012?m=edit","date":"2012-04-26","month":"Abril","year":"2012","topics":[{"title":"Extending Ruby","speakers":[{"name":"Raúl Naveiras","twitter":"http://twitter.com/rnaveiras"}]}],"file":"Abril_2012.md"},"Marzo_2012":{"link":"https://madridrb.jottit.com/marzo_2012?m=edit","date":"2012-03-29","month":"Marzo","year":"2012","topics":[{"title":"¡Conquista el mundo con Vim y Tmux!","speakers":[{"name":"Fernando Espinosa","twitter":"http://twitter.com/ferdev"}]}],"file":"Marzo_2012.md"},"Febrero_2012":{"link":"https://madridrb.jottit.com/febrero_2012?m=edit","date":"2012-02-23","month":"Febrero","year":"2012","topics":[{"title":"Lightning talks","speakers":null}],"file":"Febrero_2012.md"},"Enero_2012":{"link":"https://madridrb.jottit.com/enero_2012?m=edit","date":"2012-01-27","month":"Enero","year":"2012","topics":[{"title":"Backbone + Rails + Handlebars = Éxito","speakers":[{"name":"German Del Zotto","twitter":"https://twitter.com/#!/GermanDZ"}]}],"file":"Enero_2012.md"},"Diciembre_2011":{"link":"https://madridrb.jottit.com/diciembre_2011?m=edit","date":"2011-12-29","month":"Diciembre","year":"2011","topics":[{"title":"Colaboración usando Eventos en Ruby","speakers":[{"name":"Luismi Cavallé","twitter":"http://twitter.com/cavalle"}]}],"file":"Diciembre_2011.md"},"Noviembre_2011":{"link":"https://madridrb.jottit.com/noviembre_2011?m=edit","date":"2011-11-24","month":"Noviembre","year":"2011","topics":[{"title":"Cómo dejé de preocuparme por ser ágil y ahora no me importa en absoluto","speakers":[{"name":"David Calavera","twitter":"http://twitter.com/#!/calavera"}]}],"file":"Noviembre_2011.md"},"Octubre_2011":{"link":"https://madridrb.jottit.com/octubre_2011?m=edit","date":"2011-10-27","month":"Octubre","year":"2011","topics":[{"title":"JRuby en Webpop - Rhino y Akka","speakers":[{"name":"Mathias Biilmann","twitter":"http://mathias-biilmann.net/"}]}],"file":"Octubre_2011.md"},"Septiembre_2011":{"link":"https://madridrb.jottit.com/septiembre_2011?m=edit","date":"2011-09-29","month":"Septiembre","year":"2011","topics":[{"title":"Si yo fuera una API","speakers":[{"name":"Raimond García","twitter":"http://raimondgarcia.com"}]}],"file":"Septiembre_2011.md"},"Agosto_2011":{"link":"https://madridrb.jottit.com/agosto_2011?m=edit","date":"2011-08-25","month":"Agosto","year":"2011","topics":[{"title":"Terracismo.rb","speakers":null}],"file":"Agosto_2011.md"},"Julio_2011":{"link":"https://madridrb.jottit.com/julio_2011?m=edit","date":"2011-07-28","month":"Julio","year":"2011","topics":[{"title":"Terracismo.rb","speakers":null}],"file":"Julio_2011.md"},"Fútbol.rb Julio_2011":{"link":"https://madridrb.jottit.com/fútbol.rb_julio 2011?m=edit","date":"2011-07-20","month":"Fútbol.rb Julio","year":"2011","topics":[{"title":"Partido de fútbol, ¡apúntate ya!","speakers":null}],"file":null},"Junio_2011":{"link":"https://madridrb.jottit.com/junio_2011?m=edit","date":"2011-06-30","month":"Junio","year":"2011","topics":[{"title":"Streaming en Rails 3.1","speakers":[{"name":"Xavier Noria","twitter":"http://twitter.com/fxn"}]}],"file":"Junio_2011.md"},"Mayo_2011":{"link":"https://madridrb.jottit.com/mayo_2011?m=edit","date":"2011-05-26","month":"Mayo","year":"2011","topics":[{"title":"Sphinx vs Solr","speakers":[{"name":"Javier Ramírez","twitter":"http://twitter.com/supercoco9"},{"name":"Paco Guzmán","twitter":"http://twitter.com/pacoguzman"}]}],"file":"Mayo_2011.md"},"Abril_2011":{"link":"https://madridrb.jottit.com/abril_2011?m=edit","date":"2011-04-28","month":"Abril","year":"2011","topics":[{"title":"Tries, la pronunciación se deja como ejercicio para el lector","speakers":[{"name":"Sergio Arbeo","twitter":"http://twitter.com/serabe"}]}],"file":"Abril_2011.md"},"Marzo_2011":{"link":"https://madridrb.jottit.com/marzo_2011?m=edit","date":"2011-03-31","month":"Marzo","year":"2011","topics":[{"title":"_DOUBLE FEATURE_: Sequel + Pair Programming","speakers":[{"name":"Fernando Blat","twitter":"http://twitter.com/ferblape"},{"name":"Jorge Dias","twitter":"http://twitter.com/dias_jorge"}]}],"file":"Marzo_2011.md"},"Febrero_2011":{"link":"https://madridrb.jottit.com/febrero_2011?m=edit","date":"2011-02-24","month":"Febrero","year":"2011","topics":[{"title":"A geek talking about Heroku","speakers":[{"name":"Christos Zisopoulos","twitter":"http://twitter.com/christos"}]}],"file":"Febrero_2011.md"},"Enero_2011":{"link":"https://madridrb.jottit.com/enero_2011?m=edit","date":"2011-01-27","month":"Enero","year":"2011","topics":[{"title":"A [git] workflow","speakers":[{"name":"Sergio Gil","twitter":"http://twitter.com/porras"}]}],"file":"Enero_2011.md"},"Diciembre_2010":{"link":"https://madridrb.jottit.com/diciembre_2010?m=edit","date":"2010-12-30","month":"Diciembre","year":"2010","topics":[{"title":"Coding Dojo","speakers":[{"name":"Enrique Comba","twitter":"http://twitter.com/ecomba"}]}],"file":"Diciembre_2010.md"},"Noviembre_2010":{"link":"https://madridrb.jottit.com/noviembre_2010?m=edit","date":"2010-11-25","month":"Noviembre","year":"2010","topics":[{"title":"Fibers in Ruby 1.9","speakers":[{"name":"Murray Steele","twitter":"http://twitter.com/hlame"}]}],"file":"Noviembre_2010.md"},"Octubre_2010":{"link":"https://rejectconf.jottit.com/","date":"2010-11-03","month":"Octubre","year":"2010","topics":[{"title":"RejectConf","speakers":null}],"file":null},"Septiembre_2010":{"link":"https://madridrb.jottit.com/septiembre_2010?m=edit","date":"2010-09-30","month":"Septiembre","year":"2010","topics":[{"title":"RabbitMQ + Ruby","speakers":[{"name":"Guillermo Álvarez","twitter":"http://twitter.com/guillermooo"}]}],"file":"Septiembre_2010.md"},"Agosto_2010":{"link":"https://madridrb.jottit.com/terracismo.rb?m=edit","date":"2010-08-26","month":"Agosto","year":"2010","topics":[{"title":"Terracismo.rb","speakers":null}],"file":"Agosto_2010.md"},"Julio_2010":{"link":"https://madridrb.jottit.com/terracismo.rb?m=edit","date":"2010-07-26","month":"Julio","year":"2010","topics":[{"title":"Terracismo.rb","speakers":null}],"file":"Julio_2010.md"},"Junio_2010":{"link":"https://madridrb.jottit.com/junio_2010?m=edit","date":"2010-06-24","month":"Junio","year":"2010","topics":[{"title":"Planetaki powered by MongoDB","speakers":[{"name":"Sam Lown","twitter":"http://twitter.com/samlown"}]}],"file":"Junio_2010.md"},"Mayo_2010":{"link":"https://madridrb.jottit.com/mayo_2010?m=edit","date":"2010-05-27","month":"Mayo","year":"2010","topics":[{"title":"Madrid-rb Cine Club: Rails 3","speakers":null}],"file":"Mayo_2010.md"},"Abril_2010":{"link":"https://madridrb.jottit.com/abril_2010?m=edit","date":"2010-04-29","month":"Abril","year":"2010","topics":[{"title":"Por la gloria de REST","speakers":[{"name":"Luismi Cavallé","twitter":"http://twitter.com/cavalle"}]}],"file":"Abril_2010.md"},"Marzo_2010":{"link":"https://groups.google.com/d/topic/madrid-rb/pa2-Eru151w/discussion","date":"2010-03-25","month":"Marzo","year":"2010","topics":[{"title":"SEO para desarrolladores","speakers":[{"name":"Javier Ramírez","twitter":"http://twitter.com/supercoco9"}]}],"file":null},"Febrero_2010":{"link":"https://groups.google.com/d/topic/madrid-rb/1mQ9XN85Nkg/discussion","date":"2010-02-25","month":"Febrero","year":"2010","topics":[{"title":"El stack de testing de aceptación de moda","speakers":[{"name":"Sergio Gil","twitter":"http://twitter.com/porras"}]}],"file":null},"Enero_2010":{"link":"https://groups.google.com/d/topic/madrid-rb/6lYLCNOF2N4/discussion","date":"2010-01-28","month":"Enero","year":"2010","topics":[{"title":"Chef","speakers":[{"name":"Jacobo García","twitter":"http://twitter.com/therobot"}]}],"file":null}}
+{
+    "Abril_2010": {
+        "date": "2010-04-29",
+        "file": "Abril_2010.txt",
+        "link": "https://madridrb.jottit.com/abril_2010?m=edit",
+        "month": "Abril",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Luismi Cavall\u00e9",
+                        "twitter": "http://twitter.com/cavalle"
+                    }
+                ],
+                "title": "Por la gloria de REST"
+            }
+        ],
+        "year": "2010"
+    },
+    "Abril_2011": {
+        "date": "2011-04-28",
+        "file": "Abril_2011.txt",
+        "link": "https://madridrb.jottit.com/abril_2011?m=edit",
+        "month": "Abril",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Sergio Arbeo",
+                        "twitter": "http://twitter.com/serabe"
+                    }
+                ],
+                "title": "Tries, la pronunciaci\u00f3n se deja como ejercicio para el lector"
+            }
+        ],
+        "year": "2011"
+    },
+    "Abril_2012": {
+        "date": "2012-04-26",
+        "file": "Abril_2012.txt",
+        "link": "https://madridrb.jottit.com/abril_2012?m=edit",
+        "month": "Abril",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Ra\u00fal Naveiras",
+                        "twitter": "http://twitter.com/rnaveiras"
+                    }
+                ],
+                "title": "Extending Ruby"
+            }
+        ],
+        "year": "2012"
+    },
+    "Abril_2013": {
+        "date": "2013-04-25",
+        "file": "Abril_2013.txt",
+        "link": "https://madridrb.jottit.com/abril_2013?m=edit",
+        "month": "Abril",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Vicent Mart\u00ed",
+                        "twitter": "http://twitter.com/vmg"
+                    }
+                ],
+                "title": "\u00c9rase una vez, Ruby"
+            }
+        ],
+        "year": "2013"
+    },
+    "Abril_2014": {
+        "date": "2014-04-24",
+        "file": "Abril_2014.txt",
+        "link": "https://madridrb.jottit.com/abril_2014?m=edit",
+        "month": "Abril",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Sam Lown",
+                        "twitter": "http://twitter.com/samlown"
+                    }
+                ],
+                "title": "Finding Restfulness"
+            }
+        ],
+        "year": "2014"
+    },
+    "Agosto_2010": {
+        "date": "2010-08-26",
+        "file": "Agosto_2010.txt",
+        "link": "https://madridrb.jottit.com/terracismo.rb?m=edit",
+        "month": "Agosto",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Terracismo.rb"
+            }
+        ],
+        "year": "2010"
+    },
+    "Agosto_2011": {
+        "date": "2011-08-25",
+        "file": "Agosto_2011.txt",
+        "link": "https://madridrb.jottit.com/agosto_2011?m=edit",
+        "month": "Agosto",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Terracismo.rb"
+            }
+        ],
+        "year": "2011"
+    },
+    "Agosto_2012": {
+        "date": "2012-08-30",
+        "file": "Agosto_2012.txt",
+        "link": "https://madridrb.jottit.com/agosto_2012?m=edit",
+        "month": "Agosto",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Ra\u00fal Naveiras",
+                        "twitter": "http://twitter.com/rnaveiras"
+                    },
+                    {
+                        "name": "Fernando Blat",
+                        "twitter": "http://twitter.com/ferblape"
+                    }
+                ],
+                "title": "Introducci\u00f3n al testing y al TDD"
+            }
+        ],
+        "year": "2012"
+    },
+    "Agosto_2013": {
+        "date": "2013-08-29",
+        "file": "Agosto_2013.txt",
+        "link": "https://madridrb.jottit.com/agosto_2013?m=edit",
+        "month": "Agosto",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Terracismo-rb"
+            }
+        ],
+        "year": "2013"
+    },
+    "Diciembre_2010": {
+        "date": "2010-12-30",
+        "file": "Diciembre_2010.txt",
+        "link": "https://madridrb.jottit.com/diciembre_2010?m=edit",
+        "month": "Diciembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Enrique Comba",
+                        "twitter": "http://twitter.com/ecomba"
+                    }
+                ],
+                "title": "Coding Dojo"
+            }
+        ],
+        "year": "2010"
+    },
+    "Diciembre_2011": {
+        "date": "2011-12-29",
+        "file": "Diciembre_2011.txt",
+        "link": "https://madridrb.jottit.com/diciembre_2011?m=edit",
+        "month": "Diciembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Luismi Cavall\u00e9",
+                        "twitter": "http://twitter.com/cavalle"
+                    }
+                ],
+                "title": "Colaboraci\u00f3n usando Eventos en Ruby"
+            }
+        ],
+        "year": "2011"
+    },
+    "Diciembre_2012": {
+        "date": "2012-12-27",
+        "file": "Diciembre_2012.txt",
+        "link": "https://madridrb.jottit.com/diciembre_2012?m=edit",
+        "month": "Diciembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Luismi Cavall\u00e9",
+                        "twitter": "http://twitter.com/cavalle"
+                    }
+                ],
+                "title": "Modelazos ActiveRecord"
+            }
+        ],
+        "year": "2012"
+    },
+    "Diciembre_2013": {
+        "date": "2013-12-26",
+        "file": "Diciembre_2013.txt",
+        "link": "https://madridrb.jottit.com/diciembre_2013?m=edit",
+        "month": "Diciembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Javier Ram\u00edrez",
+                        "twitter": "http://twitter.com/supercoco9"
+                    }
+                ],
+                "title": "Catacrockea a cascoporro con redis"
+            }
+        ],
+        "year": "2013"
+    },
+    "Enero_2010": {
+        "date": "2010-01-28",
+        "file": null,
+        "link": "https://groups.google.com/d/topic/madrid-rb/6lYLCNOF2N4/discussion",
+        "month": "Enero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Jacobo Garc\u00eda",
+                        "twitter": "http://twitter.com/therobot"
+                    }
+                ],
+                "title": "Chef"
+            }
+        ],
+        "year": "2010"
+    },
+    "Enero_2011": {
+        "date": "2011-01-27",
+        "file": "Enero_2011.txt",
+        "link": "https://madridrb.jottit.com/enero_2011?m=edit",
+        "month": "Enero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Sergio Gil",
+                        "twitter": "http://twitter.com/porras"
+                    }
+                ],
+                "title": "A [git] workflow"
+            }
+        ],
+        "year": "2011"
+    },
+    "Enero_2012": {
+        "date": "2012-01-27",
+        "file": "Enero_2012.txt",
+        "link": "https://madridrb.jottit.com/enero_2012?m=edit",
+        "month": "Enero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "German Del Zotto",
+                        "twitter": "https://twitter.com/#!/GermanDZ"
+                    }
+                ],
+                "title": "Backbone + Rails + Handlebars = \u00c9xito"
+            }
+        ],
+        "year": "2012"
+    },
+    "Enero_2013": {
+        "date": "2013-01-31",
+        "file": "Enero_2013.txt",
+        "link": "https://madridrb.jottit.com/enero_2013?m=edit",
+        "month": "Enero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Jorge Manrubia",
+                        "twitter": "http://twitter.com/jmanrubia"
+                    }
+                ],
+                "title": "*Continuous Delivery* con Rails, Hudson y Heroku"
+            }
+        ],
+        "year": "2013"
+    },
+    "Enero_2014": {
+        "date": "2014-01-30",
+        "file": "Enero_2014.txt",
+        "link": "https://madridrb.jottit.com/enero_2014?m=edit",
+        "month": "Enero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Enrique Garc\u00eda",
+                        "twitter": "http://twitter.com/otikik"
+                    }
+                ],
+                "title": "Lua for Rubyists"
+            }
+        ],
+        "year": "2014"
+    },
+    "Febrero_2010": {
+        "date": "2010-02-25",
+        "file": null,
+        "link": "https://groups.google.com/d/topic/madrid-rb/1mQ9XN85Nkg/discussion",
+        "month": "Febrero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Sergio Gil",
+                        "twitter": "http://twitter.com/porras"
+                    }
+                ],
+                "title": "El stack de testing de aceptaci\u00f3n de moda"
+            }
+        ],
+        "year": "2010"
+    },
+    "Febrero_2011": {
+        "date": "2011-02-24",
+        "file": "Febrero_2011.txt",
+        "link": "https://madridrb.jottit.com/febrero_2011?m=edit",
+        "month": "Febrero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Christos Zisopoulos",
+                        "twitter": "http://twitter.com/christos"
+                    }
+                ],
+                "title": "A geek talking about Heroku"
+            }
+        ],
+        "year": "2011"
+    },
+    "Febrero_2012": {
+        "date": "2012-02-23",
+        "file": "Febrero_2012.txt",
+        "link": "https://madridrb.jottit.com/febrero_2012?m=edit",
+        "month": "Febrero",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Lightning talks"
+            }
+        ],
+        "year": "2012"
+    },
+    "Febrero_2013": {
+        "date": "2013-02-28",
+        "file": "Febrero_2013.txt",
+        "link": "https://madridrb.jottit.com/febrero_2013?m=edit",
+        "month": "Febrero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Amaia Castro",
+                        "twitter": "http://twitter.com/amaiac"
+                    }
+                ],
+                "title": "MongoDB & Rails"
+            },
+            {
+                "speakers": [
+                    {
+                        "name": "Adam Williams",
+                        "twitter": "http://twitter.com/acw5"
+                    }
+                ],
+                "title": "Videojuegos en 2d + Competici\u00f3n"
+            }
+        ],
+        "year": "2013"
+    },
+    "Febrero_2014": {
+        "date": "2014-02-27",
+        "file": "Febrero_2014.txt",
+        "link": "https://madridrb.jottit.com/febrero_2014?m=edit",
+        "month": "Febrero",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Javier Lafora",
+                        "twitter": "http://twitter.com/eLafo"
+                    }
+                ],
+                "title": "Hacking Social: Tras las l\u00edneas enemigas"
+            }
+        ],
+        "year": "2014"
+    },
+    "F\u00fatbol.rb Julio_2011": {
+        "date": "2011-07-20",
+        "file": null,
+        "link": "https://madridrb.jottit.com/f\u00fatbol.rb_julio 2011?m=edit",
+        "month": "F\u00fatbol.rb Julio",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Partido de f\u00fatbol, \u00a1ap\u00fantate ya!"
+            }
+        ],
+        "year": "2011"
+    },
+    "Julio_2010": {
+        "date": "2010-07-26",
+        "file": "Julio_2010.txt",
+        "link": "https://madridrb.jottit.com/terracismo.rb?m=edit",
+        "month": "Julio",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Terracismo.rb"
+            }
+        ],
+        "year": "2010"
+    },
+    "Julio_2011": {
+        "date": "2011-07-28",
+        "file": "Julio_2011.txt",
+        "link": "https://madridrb.jottit.com/julio_2011?m=edit",
+        "month": "Julio",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Terracismo.rb"
+            }
+        ],
+        "year": "2011"
+    },
+    "Julio_2012": {
+        "date": "2012-07-25",
+        "file": "Julio_2012.txt",
+        "link": "https://madridrb.jottit.com/julio_2012?m=edit",
+        "month": "Julio",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Terracismo-rb (no hay documentaci\u00f3n gr\u00e1fica)"
+            }
+        ],
+        "year": "2012"
+    },
+    "Julio_2013": {
+        "date": "2013-07-25",
+        "file": "Julio_2013.txt",
+        "link": "https://madridrb.jottit.com/julio_2013?m=edit",
+        "month": "Julio",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Alberto Perdomo",
+                        "twitter": "http://twitter.com/albertoperdomo"
+                    }
+                ],
+                "title": "Explotando relaciones de forma escalable con Neo4j"
+            }
+        ],
+        "year": "2013"
+    },
+    "Junio_2010": {
+        "date": "2010-06-24",
+        "file": "Junio_2010.txt",
+        "link": "https://madridrb.jottit.com/junio_2010?m=edit",
+        "month": "Junio",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Sam Lown",
+                        "twitter": "http://twitter.com/samlown"
+                    }
+                ],
+                "title": "Planetaki powered by MongoDB"
+            }
+        ],
+        "year": "2010"
+    },
+    "Junio_2011": {
+        "date": "2011-06-30",
+        "file": "Junio_2011.txt",
+        "link": "https://madridrb.jottit.com/junio_2011?m=edit",
+        "month": "Junio",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Xavier Noria",
+                        "twitter": "http://twitter.com/fxn"
+                    }
+                ],
+                "title": "Streaming en Rails 3.1"
+            }
+        ],
+        "year": "2011"
+    },
+    "Junio_2012": {
+        "date": "2012-06-28",
+        "file": "Junio_2012.txt",
+        "link": "https://madridrb.jottit.com/junio_2012?m=edit",
+        "month": "Junio",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Enrique Garc\u00eda",
+                        "twitter": "https://twitter.com/#!/otikik"
+                    }
+                ],
+                "title": "Metapresentaci\u00f3n"
+            }
+        ],
+        "year": "2012"
+    },
+    "Junio_2013": {
+        "date": "2013-06-27",
+        "file": "Junio_2013.txt",
+        "link": "https://madridrb.jottit.com/junio_2013?m=edit",
+        "month": "Junio",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Laurent Sansonetti",
+                        "twitter": "http://twitter.com/lrz"
+                    }
+                ],
+                "title": "Introduction to RubyMotion"
+            }
+        ],
+        "year": "2013"
+    },
+    "Junio_2014": {
+        "date": "2014-06-26",
+        "file": "Junio_2014.txt",
+        "link": "https://madridrb.jottit.com/junio_2014?m=edit",
+        "month": "Junio",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Marcos Villacampa",
+                        "twitter": "https://twitter.com/MarkVillacampa"
+                    }
+                ],
+                "title": "RubyMotion, desarrollo m\u00f3vil en Ruby"
+            }
+        ],
+        "year": "2014"
+    },
+    "Marzo_2010": {
+        "date": "2010-03-25",
+        "file": null,
+        "link": "https://groups.google.com/d/topic/madrid-rb/pa2-Eru151w/discussion",
+        "month": "Marzo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Javier Ram\u00edrez",
+                        "twitter": "http://twitter.com/supercoco9"
+                    }
+                ],
+                "title": "SEO para desarrolladores"
+            }
+        ],
+        "year": "2010"
+    },
+    "Marzo_2011": {
+        "date": "2011-03-31",
+        "file": "Marzo_2011.txt",
+        "link": "https://madridrb.jottit.com/marzo_2011?m=edit",
+        "month": "Marzo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Fernando Blat",
+                        "twitter": "http://twitter.com/ferblape"
+                    }
+                ],
+                "title": "Sequel"
+            },
+            {
+                "speakers": [
+                    {
+                        "name": "Jorge Dias",
+                        "twitter": "http://twitter.com/dias_jorge"
+                    }
+                ],
+                "title": "Pair Programming"
+            }
+        ],
+        "year": "2011"
+    },
+    "Marzo_2012": {
+        "date": "2012-03-29",
+        "file": "Marzo_2012.txt",
+        "link": "https://madridrb.jottit.com/marzo_2012?m=edit",
+        "month": "Marzo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Fernando Espinosa",
+                        "twitter": "http://twitter.com/ferdev"
+                    }
+                ],
+                "title": "\u00a1Conquista el mundo con Vim y Tmux!"
+            }
+        ],
+        "year": "2012"
+    },
+    "Marzo_2013": {
+        "date": "2013-03-21",
+        "file": "Marzo_2013.txt",
+        "link": "https://madridrb.jottit.com/marzo_2013?m=edit",
+        "month": "Marzo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Enrique Amodeo",
+                        "twitter": "http://twitter.com/eamodeorubio"
+                    }
+                ],
+                "title": "The Javascript Horror Show"
+            }
+        ],
+        "year": "2013"
+    },
+    "Marzo_2014": {
+        "date": "2014-03-27",
+        "file": "Marzo_2014.txt",
+        "link": "https://madridrb.jottit.com/marzo_2014?m=edit",
+        "month": "Marzo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Carlos S\u00e1nchez P\u00e9rez",
+                        "twitter": "http://twitter.com/carlossanchezp"
+                    }
+                ],
+                "title": "Ordenando las vistas. Decorator y Presenters"
+            }
+        ],
+        "year": "2014"
+    },
+    "Mayo_2010": {
+        "date": "2010-05-27",
+        "file": "Mayo_2010.txt",
+        "link": "https://madridrb.jottit.com/mayo_2010?m=edit",
+        "month": "Mayo",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "Madrid-rb Cine Club: Rails 3"
+            }
+        ],
+        "year": "2010"
+    },
+    "Mayo_2011": {
+        "date": "2011-05-26",
+        "file": "Mayo_2011.txt",
+        "link": "https://madridrb.jottit.com/mayo_2011?m=edit",
+        "month": "Mayo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Javier Ram\u00edrez",
+                        "twitter": "http://twitter.com/supercoco9"
+                    },
+                    {
+                        "name": "Paco Guzm\u00e1n",
+                        "twitter": "http://twitter.com/pacoguzman"
+                    }
+                ],
+                "title": "Sphinx vs Solr"
+            }
+        ],
+        "year": "2011"
+    },
+    "Mayo_2012": {
+        "date": "2012-05-31",
+        "file": "Mayo_2012.txt",
+        "link": "https://madridrb.jottit.com/mayo_2012?m=edit",
+        "month": "Mayo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Mark Villacampa",
+                        "twitter": null
+                    }
+                ],
+                "title": "MacRuby y RubyMotion"
+            }
+        ],
+        "year": "2012"
+    },
+    "Mayo_2013": {
+        "date": "2013-05-30",
+        "file": "Mayo_2013.txt",
+        "link": "https://madridrb.jottit.com/mayo_2013?m=edit",
+        "month": "Mayo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Javier Acero",
+                        "twitter": "http://twitter.com/jacegu"
+                    }
+                ],
+                "title": "Mi dominio es m\u00edo y no lo comparto..."
+            }
+        ],
+        "year": "2013"
+    },
+    "Mayo_2014": {
+        "date": "2014-05-29",
+        "file": "Mayo_2014.txt",
+        "link": "https://madridrb.jottit.com/mayo_2014?m=edit",
+        "month": "Mayo",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Gerardo Barcia",
+                        "twitter": "http://www.gerardobarcia.com/"
+                    }
+                ],
+                "title": "\u00bfTDD como problema?"
+            }
+        ],
+        "year": "2014"
+    },
+    "Noviembre_2010": {
+        "date": "2010-11-25",
+        "file": "Noviembre_2010.txt",
+        "link": "https://madridrb.jottit.com/noviembre_2010?m=edit",
+        "month": "Noviembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Murray Steele",
+                        "twitter": "http://twitter.com/hlame"
+                    }
+                ],
+                "title": "Fibers in Ruby 1.9"
+            }
+        ],
+        "year": "2010"
+    },
+    "Noviembre_2011": {
+        "date": "2011-11-24",
+        "file": "Noviembre_2011.txt",
+        "link": "https://madridrb.jottit.com/noviembre_2011?m=edit",
+        "month": "Noviembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "David Calavera",
+                        "twitter": "http://twitter.com/#!/calavera"
+                    }
+                ],
+                "title": "C\u00f3mo dej\u00e9 de preocuparme por ser \u00e1gil y ahora no me importa en absoluto"
+            }
+        ],
+        "year": "2011"
+    },
+    "Noviembre_2012": {
+        "date": "2012-11-29",
+        "file": "Noviembre_2012.txt",
+        "link": "https://madridrb.jottit.com/noviembre_2012?m=edit",
+        "month": "Noviembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Enrique Garc\u00eda",
+                        "twitter": "http://twitter.com/otikik"
+                    }
+                ],
+                "title": "Coding Dojo"
+            }
+        ],
+        "year": "2012"
+    },
+    "Noviembre_2013": {
+        "date": "2013-11-28",
+        "file": "Noviembre_2013.txt",
+        "link": "https://madridrb.jottit.com/noviembre_2013?m=edit",
+        "month": "Noviembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Juanjo Baz\u00e1n",
+                        "twitter": "http://twitter.com/xuanxu"
+                    }
+                ],
+                "title": "Ruby y Ciencia"
+            }
+        ],
+        "year": "2013"
+    },
+    "Octubre_2010": {
+        "date": "2010-11-03",
+        "file": null,
+        "link": "https://rejectconf.jottit.com/",
+        "month": "Octubre",
+        "topics": [
+            {
+                "speakers": null,
+                "title": "RejectConf"
+            }
+        ],
+        "year": "2010"
+    },
+    "Octubre_2011": {
+        "date": "2011-10-27",
+        "file": "Octubre_2011.txt",
+        "link": "https://madridrb.jottit.com/octubre_2011?m=edit",
+        "month": "Octubre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Mathias Biilmann",
+                        "twitter": "http://mathias-biilmann.net/"
+                    }
+                ],
+                "title": "JRuby en Webpop - Rhino y Akka"
+            }
+        ],
+        "year": "2011"
+    },
+    "Octubre_2012": {
+        "date": "2012-10-25",
+        "file": "Octubre_2012.txt",
+        "link": "https://madridrb.jottit.com/octubre_2012?m=edit",
+        "month": "Octubre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Gabriel Ortu\u00f1o",
+                        "twitter": "http://twitter.com/arctarus"
+                    }
+                ],
+                "title": "Making code tastier through refactoring"
+            }
+        ],
+        "year": "2012"
+    },
+    "Octubre_2013": {
+        "date": "2013-10-24",
+        "file": "Octubre_2013.txt",
+        "link": "https://madridrb.jottit.com/octubre_2013?m=edit",
+        "month": "Octubre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Sergio Gil",
+                        "twitter": "http://twitter.com/porras"
+                    },
+                    {
+                        "name": "Vitor Pellegrino",
+                        "twitter": "http://twitter.com/pellegrino"
+                    }
+                ],
+                "title": "Bajar del monorra\u00edl: microservicios"
+            }
+        ],
+        "year": "2013"
+    },
+    "Septiembre_2010": {
+        "date": "2010-09-30",
+        "file": "Septiembre_2010.txt",
+        "link": "https://madridrb.jottit.com/septiembre_2010?m=edit",
+        "month": "Septiembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Guillermo \u00c1lvarez",
+                        "twitter": "http://twitter.com/guillermooo"
+                    }
+                ],
+                "title": "RabbitMQ + Ruby"
+            }
+        ],
+        "year": "2010"
+    },
+    "Septiembre_2011": {
+        "date": "2011-09-29",
+        "file": "Septiembre_2011.txt",
+        "link": "https://madridrb.jottit.com/septiembre_2011?m=edit",
+        "month": "Septiembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Raimond Garc\u00eda",
+                        "twitter": "http://raimondgarcia.com"
+                    }
+                ],
+                "title": "Si yo fuera una API"
+            }
+        ],
+        "year": "2011"
+    },
+    "Septiembre_2012": {
+        "date": "2012-09-27",
+        "file": "Septiembre_2012.txt",
+        "link": "https://madridrb.jottit.com/septiembre_2012?m=edit",
+        "month": "Septiembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Javier Lafora",
+                        "twitter": "http://twitter.com/eLafo"
+                    }
+                ],
+                "title": "The Ruby Object Model"
+            }
+        ],
+        "year": "2012"
+    },
+    "Septiembre_2013": {
+        "date": "2013-09-26",
+        "file": "Septiembre_2013.txt",
+        "link": "https://madridrb.jottit.com/septiembre_2013?m=edit",
+        "month": "Septiembre",
+        "topics": [
+            {
+                "speakers": [
+                    {
+                        "name": "Sergio Arbeo",
+                        "twitter": "http://twitter.com/serabe"
+                    }
+                ],
+                "title": "Croupier: probabilidades, muestras y enumerables"
+            }
+        ],
+        "year": "2013"
+    }
+}

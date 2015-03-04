@@ -1,0 +1,81 @@
+**Date:** Thursday,  2013<br/>
+**Venue:** [Utopic_US](http://www.utopicus.es/) ([map](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Time:** 19:45h<br/>
+**Video:** Not yet!
+
+# Introduction to RubyMotion
+
+In this talk, Laurent will introduce what RubyMotion is, how it works, and what you can do with it.
+
+## Laurent Sansonetti ([@lrz](https://twitter.com/lrz))
+
+Laurent is the founder of [HipByte](http://www.hipbyte.com/) and lead developer of [RubyMotion](http://www.rubymotion.com/). He worked at Apple for 7 years as a senior software engineer, on both [iLife](http://www.apple.com/ilife/) and [OS X](http://www.apple.com/osx/). A long time rubyist, he created and still maintains the [MacRuby](http://macruby.org/) project. In a previous life, he worked on [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml) and was an active contributor to [RubyCocoa](http://rubycocoa.sourceforge.net/) and [GNOME](http://www.gnome.org/).
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+
+* @lrz
+* @otikik
+* @pasku1
+* @xuanxu
+* @MarkVillacampa
+* @javierhonduco
+* @fpurrinhos
+* @christos
+* @rafadc
+* @jmanrubia
+* @ialcazar
+* @pantulis
+* @e_gimenez
+* @manu1621
+* @jfvaldesg
+* @lorenzoplanas
+* [@jfcalvo](https://twitter.com/jfcalvo)
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* joseluis
+* @jorgesancha
+* @fjuan
+* @frsevillano
+* @acw5
+* @martincabrera
+* [@bomberstudios](https://twitter.com/bomberstudios)
+* @fesja
+* @ferdev
+* @javier
+* @mmahr
+* [@fesotovi](https://twitter.com/fesotovi)
+* @ciscou
+* [@joshka20](https://twitter.com/joshka20)
+* [@Rosapolis](https://twitter.com/rosapolis)
+* @joseferrer
+* @dogeatcat
+* [@luisrecuenco](https://twitter.com/luisrecuenco)
+* @sergiou87
+* @jorgeleria
+* @vianasw
+* @mcberros
+* @eamodeorubio
+* [@lascorbe](https://twitter.com/lascorbe)
+* @arctarus
+* @manolomaldonado
+* [@michaelkoper](https://twitter.com/michaelkoper)
+* [@thisincludes](http://twitter.com/thisincludes)
+* @keyvanakbary
+* @antoniojrossi

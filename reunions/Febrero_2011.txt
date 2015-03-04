@@ -1,0 +1,79 @@
+# A g[r]eek talking about Heroku ([vídeo](http://vimeo.com/20768519))
+
+**Fecha:** Jueves, 24 de Febrero de 2011<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+Undoubtedly, Heroku is the new black. The Salesforce guys sure think so, and so do all the cool kids on the ruby-block. So, you wonder, is it right for you? 
+
+In this short talk I plan to recount my experience migrating [Jobandtalent](http://jobandtalent.com) to Heroku. 
+
+Time permiting, I will try to cover the following subjects, some superficially, some in more detail:
+
+* PostgreSQL; differences to MySQL, quirks, hidden features, performance considerations
+* Heroku's read only file system, and how it might affect your application
+* Heroku Add-Ons. The Essential, The Nice-to-have, The Rest
+* Anecdotal tales of the platform's quality of service and support 
+
+**AVISO:** El idioma de la charla será español, inglés, griego o *spangreesh* en función del número de cervezas que lleve encima el ponente al comienzo de la misma
+
+## Christos Zisopoulos
+
+[Christos](http://twitter.com/christos) escapó hace algunos años del endogámico mundo de la television interactiva y de la oscuridad de Londres. Ahora vive en Madrid, ha trabajado en The Cocktail y actualmente en Jobandtalent como desarrollador Rails y ‘all around systems guy’.
+
+### Resources
+
+* [Vídeo de la charla](http://vimeo.com/20768519)
+
+### Asistentes
+
+*(Edita la página y añádete si tienes previsto venir)*
+
+* @christos
+* @cavalle
+* @porras
+* @lorenzoplanas
+* @serabe
+* @therobot
+* @diec123
+* @jcea
+* @otikik
+* @izgaka
+* @valakirka
+* @amaiac
+* @zipizap
+* @arctarus
+* @jjballano
+* @dgilperez
+* @eLafo
+* @supercoco9
+* @furilo
+* @cantorrodista
+* @batu
+* @miguellc
+* @hylian
+* @topowanda
+* @makotogim
+* @samlown
+* @enriqueaf
+* @ialcazar
+* @1hourl8r
+* @ferdev
+* @ltello
+* @rafaelrebolleda
+* @yonosoytu
+* @wchiquito
+* @javiervidal
+* @eamodeorubio
+* @apardo
+* @marivas
+* @trek1s
+* @daniel.oton
+* @edu
+* @jglongaron
+* @zipizap
+* @xuanxu
+* @lparedesdev
+* @joseRGB
+* @raulbarrosoleon
+* @guillermooo

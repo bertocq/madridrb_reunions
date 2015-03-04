@@ -1,0 +1,81 @@
+# Lightning talks
+
+**Fecha:** Jueves, 23 de Febrero de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/), Calle Duque de Rivas 5, Madrid. ([mapa](http://g.co/maps/4ktdg))<br/>
+**Hora:** 19:45h
+
+Charlas de poco tiempo (5 minutos) para hablar de cualquier tema relacionado con ruby.
+
+El acceso es completamente abierto. Para apuntarte como ponente, [edita](?m=edit) esta página y apúntate a continuación.
+
+La primera charla es de ejemplo, me temo. Pero puede usarse como plantilla.
+
+* **My new gem** - David Heinemeier Hansson
+* **La Falacia Fowler** – Luismi Cavallé
+* **Perpetuum Temptationis** - Enrique Comba Riepenhausen
+* **Cadenas, Símbolos y Sorpresas** - Enrique García Cota
+* **[Ruby on a Router](https://github.com/awilliams/ruby-openwrt)** - Adam Williams
+* **Utilizando R desde Ruby** - Javier Vidal
+* **Indexing Nested Objects** - Paco Guzmán
+
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+## Asistentes
+
+¿Vienes? Apúntate [editando](?m=edit) esta página
+
+* @cavalle
+* @otikik
+* @blogatclock
+* @voodoorai2000
+* @arctarus
+* @rafadc
+* @acw5
+* @oinak
+* @serabe
+* @ecomba
+* @supercoco9
+* @pasku1
+* @ArturoHerrero
+* @emacip
+* @kanedaki
+* @pantulis
+* @alexeiras
+* @miguellc
+* @oinak
+* @celeduc
+* @zipizap
+* @javiervidal
+* @jcea
+* @ialcazar
+* @pacoguzman
+* @apenav
+* @ciscou
+* @jglongaron
+* @el_verdor
+* @rnaveiras
+* @nestorsalceda
+* @juli0castill0
+* @eLafo
+* @germandz
+* @diec123
+* @satrapa

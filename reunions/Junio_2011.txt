@@ -1,0 +1,103 @@
+# Streaming en Rails 3.1
+
+Madrid.rb se viste de gala para recibir a un miembro del core de Rails \[1\]
+
+**Fecha:** Jueves, 30 de Junio de 2011<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+Entre las novedades de Rails 3.1 se encuentra el soporte para hacer streaming de respuestas.
+
+En esta charla veremos qué es el streaming, cuándo usarlo, implicaciones prácticas, setups de servidores, y echaremos un vistazo a su implementación
+
+### Xavier Noria
+
+Xavier es un veterano de nuestra comunidad. Es el autor de [Rails Contributors][1], fue premiado con un [Ruby Hero Award][2] en 2010, y es actualmente miembro del [core team][3] de Rails. Estudiante perpetuo, orgulloso padre de una maravillosa niña, trabaja como consultor independiente de Ruby on Rails en Barcelona.
+
+Xavier es [@fxn][4] en Twitter y puedes conocer más sobre él en su [website personal][5].
+
+[1]: http://contributors.rubyonrails.org/
+[2]: http://rubyheroes.com/heroes
+[3]: http://rubyonrails.org/core
+[4]: https://twitter.com/fxn
+[5]: http://hashref.com/
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/utopicus.png' alt='utopic_US'/>][15]&nbsp;&nbsp;&nbsp;&nbsp;
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.utopicus.es/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @fxn
+* @cavalle
+* @christos
+* @hylian
+* [@ferflafe](http://26.media.tumblr.com/tumblr_lku8fihVFF1qa8zylo1_r1_400.png)
+* @ferdev
+* @lparedesdev (a esta sí que sí)
+* @izgaka
+* @porras
+* @pacoguzman
+* @cantorrodista
+* @emacip
+* @supercoco9
+* @ltello
+* @Serabe
+* @amaiac
+* @pantulis
+* @otikik
+* @xuanxu
+* @diec123
+* @valakirka
+* @batu
+* @yonosoytu
+* @miguellc
+* @arctarus
+* @edu
+* @jacegu
+* @ialcazar
+* @samlown
+* @eLafo
+* @biilmann
+* @blogatclock
+* @josemspain
+* @raulbarrosoleon
+* @rafadc
+* @jgarcial
+* @jmanrubia
+* @kanedaki
+* @alvarodt
+* @donquicong
+* [@javiervidal](http://javiervidal.net)
+* @rafadiaznovo
+* @jorgesancha
+* @demimismo
+* @oinak
+* @guillermooo
+* @wchiquito
+* @1hourl8r
+* @voodoorai2000
+* @afcapel
+* @dgilperez
+* @makotogim
+* @carlosve_ucv
+* @acw5
+* @miquelcamps
+* @juanfranlopez
+* @ciscou
+
+\[1] Imprescindible media etiqueta.

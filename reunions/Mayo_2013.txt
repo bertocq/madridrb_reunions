@@ -1,0 +1,85 @@
+**Fecha:** Jueves, 30 de Mayo de 2013<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h<br/>
+**Vídeo:** [vimeo](https://vimeo.com/69157481)
+
+# Mi dominio es mío y no lo comparto...
+
+¿Qué es realmente la lógica de negocio? ¿Qué es un modelo de dominio? ¿Qué verdades se esconden detrás de patrones como “fat model - skinny controller”? ¿Cómo afecta el uso de un framework como Rails a la hora de implementar nuestro dominio?
+
+En esta charla abordaremos los problemas que surgen cuando ponemos una herramienta en el centro de nuestra aplicación y debatiremos si el precio que pagamos por los raíles resulta demasiado alto.
+
+## Javier Acero ([@jacegu](http://www.twitter.com/jacegu))
+
+Programador. Enamorado de Ruby y del código limpio. Ha pasado los últimos años  ayudando a startups a lanzar la primera versión de sus productos al mercado de la mano de [patheleven](http://patheleven.com/).
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @jacegu
+* @otikik
+* @wchiquito
+* @mgryszko
+* @joseferrer
+* @etdsoft
+* @atapiador
+* @eamodeorubio
+* @mcberros
+* @moises_macia
+* @amartinfraguas
+* @pasku1
+* @eferro
+* @jmanrubia
+* joseluis
+* @fpurrinhos
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @javierhdez3
+* @diec123
+* @jfcalvo
+* @comolohashecho
+* @antoniojrossi
+* @AlvarOS_anchez
+* @dadelmo
+* @keyvanakbary
+* [@sergioshernand](https://twitter.com/sergioshernand)
+* @fxjade
+* @ferblape
+* @jfvaldesg
+* @martincabrera
+* @nhpatt
+* [@ViddoBamBam](https://twitter.com/viddobambam)
+* [@eLafo](https://twitter.com/elafo)
+* @jpgerek
+* [@istepaniuk](https://twitter.com/istepaniuk)
+* @fjuan
+* @doktor500
+* @jorgeleria
+* @vianasw
+* [@Rosapolis](https://twitter.com/rosapolis)
+* [@christos](https://twitter.com/christos)
+* rnaveiras
+* @amaiac
+* @arctarus
+* @satrapa
+* @xuanxu
+* [@laura_morillo](https://twitter.com/laura_morillo)
+* [@javier_dev](https://twitter.com/javier_dev)
+* [@antarticonorte](https://twitter.com/antarticonorte)
+* @pepetox

@@ -1,0 +1,75 @@
+**Fecha:** Jueves, 27 de Febrero de 2014 <br/>
+**Lugar:** [Utopic_US US3](http://www.utopicus.es/) ([c/ Colegiata 9](https://www.google.com/maps/preview#!q=Calle+Colegiata%2C+9%2C+Madrid%2C+Spain&data=!4m10!1m9!4m8!1m3!1d203964!2d-3.6795367!3d40.4378271!3m2!1i1436!2i806!4f13.1))<br/>
+**Hora:** 19:45h<br/>
+**Video:** [Vimeo](http://vimeo.com/88232111)
+
+
+# Hacking social: tras las líneas enemigas
+
+Como desarrolladores nos pasamos la mayoría del tiempo hackeando: optimizando bases de datos, configurando servicios, integrándonos con APIs de terceros. Normalmente nos sentimos mucho más cómodos trabajando con máquinas que con personas. Sin embargo, tarde o temprano acabamos en un proyecto en el que tenemos que gestionar un equipo, un cliente o, peor, a nuestro jefe.
+
+Nadie nos explica cómo se hace y tenemos la idea de que esto puede ser la guerra. Voy a intentar dar una visión diferente (y muy personal) de la que normalmente tenemos acerca de este tipo de trabajo. Intentaré explicar por qué esto puede llegar a ser un reto apasionante y por qué, en el fondo, no está tan alejado de nuestro día a día como solemos creer.
+
+Contaré lo que nadie me contó a mí y que hubiera agradecido que alguien me hubiera contado en su momento.
+
+## Javier Lafora ([@eLafo](https://twitter.com/eLafo))
+
+Cervecero y guitarrista aficionado. Tras cuatro años estudiando medicina, decidí dejarlo para dedicarme al mundo de la informática. Sin un rumbo definido y por casualidad acabé dedicándome al desarrollo web en rails. He encontrado en el desarrollo web una forma de costear mis vicios y mis aficiones. En caso de que estallara un apocalipsis zombie, sería de muy poca ayuda. Quedáis avisados...
+
+
+## Ofrecido por: ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Participantes
+
+*([Edita](?m=edit) esta página y añádete a la lista si tienes pensado asistir)*
+
+* @eLafo
+* @otikik
+* @carlossanchezp
+* @lparedesdev
+* @ferblape
+* [@ViddoBamBam](https://twitter.com/ViddoBamBam)
+* @arpahector
+* @ciscou
+* @amaiac
+* @joseferrer
+* @diec123
+* [@ops_robot](https://twitter.com/ops_robot)
+* [@martincabrera](https://twitter.com/martincabrera)
+* [@arctarus](https://twitter.com/arctarus)
+* @acw5
+* @alexcocia
+* @demimismo
+* [@christos](https://twitter.com/christos)
+* josé luis
+* [@eduard_io](https://twitter.com/eduard_io)
+* @rocknrollesque
+* Andrés Barriga
+* @JackLondon84
+* @fjuan
+* César
+* @Rebequilla_p
+* [@javier_dev](https://twitter.com/javier_dev)
+* [@elreplicante](https://twitter.com/elreplicante)
+* [@estoyausente](https://twitter.com/estoyausente)
+* @alejandrodob
+* [@sergioshernand](https://twitter.com/sergioshernand)
+* [@enderfx](https://twitter.com/enderfx)
+* [@azaru](http://twitter.com/azaru)
+* [@carlossicre](http://twitter.com/carlossicre)
+* Alex_r
+* @_abnz

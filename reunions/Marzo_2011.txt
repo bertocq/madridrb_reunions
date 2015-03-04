@@ -1,0 +1,105 @@
+# *DOUBLE FEATURE*:  Sequel ([vídeo](http://vimeo.com/22808010)) + Pair Programming ([vídeo](http://vimeo.com/23560754))
+
+**Fecha:** Jueves, 31 de Marzo de 2011<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+Estrenamos formato con dos medias charlas en lugar de una:
+
+## Sequel: una alternativa a Active Record
+
+Los que trabajamos con Ruby on Rails estamos acostumbrados a utilizar
+ActiveRecord para "hablar" con la base de datos. Y con razón, Active
+Record es muy potente y completo, y de verdad facilita la vida del
+programador. Pero está bien, de vez en cuando, mirar alrededor y ver
+alternativas, sobre todo porque te llevas gratas sorpresas.
+
+[Sequel](http://sequel.rubyforge.org/) es un "toolkit" escrito en Ruby
+para conectarse e interactuar contra una base de datos, mucho más
+flexible y configurable que ActiveRecord, aunque con el mismo
+potencial y la misma magia.
+
+El objetivo de esta charla es darlo a conocer e introducir sus
+conceptos básicos, intentando que os quedéis con el mismo buen sabor
+de boca con el que me quedé yo cuando empecé a utilizarlo.
+
+### Fernando Blat
+
+Fernando Blat es un informático criado a base de horchata y paellas,
+emigrado a Madrid para poder trabajar en desarrollo web para pequeñas
+consultoras y start-ups, mientras hacía sus pinitos con algún que otro
+proyecto personal. Lo podéis seguir en twitter en [@ferblape](http://twitter.com/ferblape)
+
+### Recursos
+
+* [Vídeo de la charla](http://vimeo.com/madridrb/blat-mar11)
+* [Slides de la charla](http://www.slideshare.net/ferblape/sequel-madridrb)
+
+## Pair programming: una forma de desarrollar software
+
+La idea de la charla es dar a conocer el pair programming como una herramienta de trabajo y como poder aprovecharla en nuestro trabajo en el día a día. Intentaré explicar desde mi experiencia personal las ventajas y desventajas prácticas del pair programming y en qué situaciones nos puede resultar más ventajoso. Repasaremos algunos conceptos básicos, distintas modalidades y setups de trabajo distintos, tanto para trabajar en un local como en remoto. 
+
+### Jorge Dias
+
+Jorge Dias nació en Venezuela, después de graduarse vino a España a buscar nuevas oportunidades. Conoció Ruby gracias a un amigo y descubrió un mundo distinto de la programación. Le interesan los procesos de desarrollo de software y la organización de la información.<br/>Blog: [http://mrdias.com](http://mrdias.com). Twitter: [@dias_jorge](http://twitter.com/dias_jorge)
+
+### Recursos
+* [Vídeo de la charla](http://vimeo.com/madridrb/jorge-mar11)
+* [Slides de la charla](http://diasjorge.github.com/pair-programming-slides)
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @ferblape
+* @christos
+* @dias_jorge
+* @cavalle
+* @ferdev
+* @1hourl8r
+* @Serabe
+* @izgaka
+* @pacoguzman
+* @ialcazar
+* @batu
+* @cantorrodista
+* @arctarus
+* @diec123
+* @dgilperez
+* @eLafo
+* @valakirka
+* @hylian
+* @tomasborrella
+* @eamodeorubio
+* @mcberros
+* @voodoorai2000
+* @trek1s
+* @yonosoytu
+* @supercoco9
+* @amaiac
+* @zipizap
+* @miguellc
+* @raulbarrosoleon
+* @otikik
+* @lparedesdev
+* @wchiquito
+* @samlown
+* @despo
+* @ecomba
+* @GermanDZ
+* @jmbeas
+* @jjballano
+* @fjuan
+* @porras
+* @lorenzoplanas
+* @apardo
+* @aitorgrandes
+* @andres
+* @bishboria
+* @iwiznia
+* @adamwilliams
+* @afcapel
+* @isanchezirtve
+* @joseRGB
+* @zirodev
+* @jcea

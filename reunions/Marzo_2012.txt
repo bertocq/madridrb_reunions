@@ -1,0 +1,78 @@
+# ¡Conquista el mundo con Vim y Tmux!
+
+**Fecha:** Jueves, 29 de Marzo de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/), Calle Duque de Rivas 5, Madrid. ([mapa](http://g.co/maps/4ktdg))<br/>
+**Hora:** 19:45h
+
+En esta charla intentaré mostrar los motivos que me han hecho considerar vim el mejor editor de código que he probado hasta el momento, mostrando todas su bondades, y cómo su uso conjunto con Tmux consiguen crear un entorno de desarrollo muy ágil, potente y listo para ser usado (junto con todos tus settings) en cualquier ordenador con conexión a internet :-)
+
+## Fernando Espinosa Jiménez ([@ferdev](http://twitter.com/ferdev))
+
+Fernando empezó a utilizar ordenadores con seis años, y no ha parado desde entonces. Esos felices años en la escuela con bocadillos de nutella, BASIC, LOGO y Accu-Type, fueron seguidos por una época oscura en empresas de consultoría, como Soluziona o Indra, donde pasó 10 años trabajando con Java (ok, un par de años fueron de .NET).
+
+Cansado de la burocracia, ineficiencia y políticas de trabajo anticuadas, empezó su propia compañía con algunos amigos y, algo más tarde, se especializó como freelance de Rails. Gracias a esto, tuvo la suerte de cruzarse con [Vizzuality](http://vizzuality.com/), compañía en la que disfruta desarrollando proyectos internacionales que merecen la pena.
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+## Asistentes
+
+¿Vienes? Apúntate [editando](?m=edit) esta página
+
+* @otikik
+* @nestorsalceda
+* @luisico
+* @dani_oton
+* @javiacei
+* @moises_macia
+* @xuanxu
+* @arctarus
+* @pasku1
+* @ArturoHerrero
+* @emacip
+* @demimismo
+* @cavalle
+* @topochan
+* @migupl
+* @acw5
+* @el_verdor (iré a la mani)
+* @lopezsilvita
+* @novia713
+* @taggito
+* @oinak
+* @apenav
+* @sanmeda
+* @ecomba (no 100%, pero intentare)
+* @andreacadarso
+* @amida (Demasiada espera en el metro por la huelga, no podré asistir)
+* @fsainz
+* @ariera
+* @ereslibre
+* @fothdev
+* @celeduc
+* @javier
+* @davidsingal
+* @marcelinollano
+* @jpgerek
+* @rnaveiras
+* @eferro
+* @ciscou
+* @jglongaron
+@javierhonduco 

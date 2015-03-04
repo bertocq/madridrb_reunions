@@ -1,0 +1,89 @@
+**Fecha:** Jueves, 25 de Abril de 2013<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h<br/>
+**Vídeo:** [Vimeo](http://vimeo.com/66382610)
+
+# Érase una vez, Ruby
+
+Esta charla es como un cuento de hadas. Es una charla sobre detalles internos de la implementación de Ruby (MRI). Bueno, mejor olvídate de las hadas. Hay un montón de cosas debajo de los intérpretes de Ruby que se usan en producción. La capa de C que interactúa con el sistema operativo es un zafarrancho inescrutable, lleno de bugs y problemas arcanos; el tipo de problemas que no levantan excepciones, sino que matan procesos enteros. Esta es una charla sobre como descubrimos, nos enfrentamos y solucionamos algunos de estos problemas inherentes a la implementación de Ruby en GitHub.
+Más bien una historia de miedo, vamos.
+
+### Vicent Martí ([@vmg](http://www.twitter.com/vmg))
+
+Vicent Martí es un tipo "to reshulón". Trabaja como ingeniero de sistemas en [GitHub](https://github.com/), el host de código más grande del mundo, concentrándose en problemas de seguridad y rendimiento del backend. Es el maintainer, entre otras cosas, de libgit2, la librería detrás de los clientes nativos GitHub for Windows y GitHub for Mac, y el propio backend de GitHub. En ocasiones dice cosas muy interesantes.
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @vmg
+* @otikik
+* @wchiquito
+* @joseferrer
+* @yonosoytu
+* @erpheus
+* @ferdev
+* @viddobambam
+* @fpurrinhos
+* @mcberros
+* @eamodeorubio
+* @diec123
+* @arctarus
+* @ciscou
+* @pasku1
+* @acw5
+* @atapiador
+* @amaiac
+* @dgc273
+* @e_gimenez
+* @emacip
+* @amartinfraguas
+* @joshka20
+* @manu1621
+* @xuanxu
+* @jmanrubia
+* @martincabrera
+* joseluis
+* @DonQuicong
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @alvarovmz
+* @laura_morillo
+* @javierhonduco
+* andresBarriga
+* @aalbagarcia
+* @darkrodry
+* @sailormercury
+* @Zerpet
+* @moises_macia
+* @rosapolis
+* @jorgeleria
+* @vianasw
+* @javiervidal
+* @ernestomiguez
+* @marcelinollano
+* @thevaw
+* @carlosble
+* @luismierre
+* @kaskito
+* @rnaveiras
+* @elridon
+* @fxjade
+* @borjafv
+* @juanyque
+* @zipizap

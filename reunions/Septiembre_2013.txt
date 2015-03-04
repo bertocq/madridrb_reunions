@@ -1,0 +1,66 @@
+**Fecha:** Jueves, 24 de Octubre de 2013<br/>
+**Lugar:** [Utopic_US US3](http://www.utopicus.es/) ([c/ Colegiata 9](https://www.google.com/maps/preview#!q=Calle+Colegiata%2C+9%2C+Madrid%2C+Spain&data=!4m10!1m9!4m8!1m3!1d203964!2d-3.6795367!3d40.4378271!3m2!1i1436!2i806!4f13.1))<br/>
+**Hora:** 19:45h<br/>
+**Video:** [Vimeo](http://vimeo.com/78610616)
+
+# Croupier: probabilidades, muestras y enumerables.
+
+Croupier es una gema que permite trabajar con muestras aleatorias de forma fácil. Como no sólo de distribuciones de probabilidad viven los datos aleatorios, también cuenta con otro tipo de "distribuciones" (por ejemplo, tarjetas de crédito).
+
+En esta charla veremos no sólo cómo trabajar con la gema sino cómo son sus tripas y cómo añadir nuestras propias distribuciones. Todo nos servirá como excusa para familiarizarnos con la creación de Enumerators.
+
+## Sergio Arbeo ([@serabe](https://twitter.com/serabe))
+
+Matemático de formación y programador de vocación, llevo en la comunidad Ruby ya unos añitos, dando mi primera charla sobre JRuby en la Conferencia Rails 2009. Desde entonces he dado varias charlas relacionadas con el mundo de desarrollo, en distintos lugares, como el GDG de Madrid, la facultad de Matemáticas, Madrid on Rails o el grupo local de programadores en Ruby de Madrid.
+
+## Extra
+
+Haremos la segunda batalla de [RTanque](https://groups.google.com/forum/?hl=en#!topic/madrid-rb/0H84KsjkuV0) en la que todo el mundo puede participar.
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+
+* @serabe
+* @otikik
+* @pasku1
+* @lparedesdev
+* @colgado
+* @ciscou
+* @acw5
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* @DonQuicong
+* @amaiac
+* @moises_macia
+* [@sergioshernand](https://twitter.com/sergioshernand)
+* @imanolcg
+* joseluis
+* @e_gimenez
+* @ViddoBamBam
+* @kask
+* @rul_foo
+* [@martincabrera](https://twitter.com/martincabrera)
+* @juanjo_ma
+* @fjuan
+* @diec123
+* [@jfcalvo](https://twitter.com/jfcalvo)
+* @algohace
+* @mroguzman
+* @mazur
+* @jglongaron

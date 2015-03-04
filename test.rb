@@ -69,8 +69,8 @@ text.each_line do |line|
     content = doc.css('#content_text').map(&:text)
 
     # write a file for the reunion
-    file = "#{month}_#{year}.md"
-    File.write("./reunions/#{file}", content)
+    file = "#{month}_#{year}.txt"
+    File.write("./reunions/#{file}", content[0])
   end
 
   reunions[month + '_' + year] = { link: link, date: date, month: month,

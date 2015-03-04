@@ -1,0 +1,112 @@
+# Si yo fuera una API 
+
+**Fecha:** Jueves, 29 de Septiembre de 2011<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+En esta charla filosofaremos sobre APIs en un mundo Railero.
+Su implementación en cliente y en servidor,
+los entresijos del testing, métodos de autenticación,
+buenas y malas prácticas, como comunicarte con los desarrolladores externos, 
+y algún que otro sibaritismo, con la ayuda de unos amigos muy especiales...
+
+### Raimond García
+
+[Rai](http://raimondgarcia.com) es un desarrollador web Freelance,
+apasionado del testing, Kanban y de la democracia líquida,
+actualmente da cursos de Ruby on Rails cuando no está manisfestándose por el 15M, 
+montando Referendums nacionales, o persiguiendo su vocación de director de cine.
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]    
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]    
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]    
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]    
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]    
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+
+
+### Asistentes
+
+¿Vienes? Apúntate con [github](https://madridrb-addme.heroku.com/github) o [twitter](https://madridrb-addme.heroku.com/twitter)
+
+[![Luismi Cavallé](http://www.gravatar.com/avatar/e3370c9c1fc75320e1549c62c636e248?s=48 "Luismi Cavallé")](http://github.com/cavalle)
+[![](http://www.gravatar.com/avatar/ed32ef9800d8f476f492ebe7e7cffa15?s=48 "")](http://github.com/hermesdt)
+[![Jesus J. Ballano](http://a3.twimg.com/profile_images/1416145378/badguy_normal.jpg "Jesus J. Ballano")](http://twitter.com/jjballano)
+[![Alfredo Solano](http://a3.twimg.com/profile_images/57929737/2459330576_52bac6e3fb_s_normal.jpg "Alfredo Solano")](http://twitter.com/cantorrodista)
+[![Gabriel Ortuño](http://www.gravatar.com/avatar/25158892d0ec54b50428215972020f95?s=48 "Gabriel Ortuño")](http://github.com/arctarus)
+[![Sam Lown](http://www.gravatar.com/avatar/0eaa4f32363d027f0d905d36272d98c9?s=48 "Sam Lown")](http://github.com/samlown)
+[![Gaizka](http://a1.twimg.com/profile_images/54483404/temp_normal.jpg "Gaizka")](http://twitter.com/izgaka)
+[![Fer](http://a0.twimg.com/profile_images/1550523075/unicorn_meat_normal.jpeg "Fer")](http://twitter.com/Ferdev)
+[![kanedaki](http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png "kanedaki")](http://twitter.com/kanedaki)
+[![Gema](http://a3.twimg.com/profile_images/145300716/60282845_N00_normal.jpg "Gema")](http://twitter.com/gemgon)
+[![oalonzo](http://a2.twimg.com/profile_images/1469205154/Foto_del_d_a_29-07-11_a_la_s__21_normal.jpg "oalonzo")](http://twitter.com/oalonzo)
+[![miguellc](http://a2.twimg.com/profile_images/64378218/Miguel_normal.JPG "miguellc")](http://twitter.com/miguellc)
+[![Enrique Macip ](http://a3.twimg.com/profile_images/1448212035/39b19a7_normal.jpg "Enrique Macip ")](http://twitter.com/emacip)
+[![Christos Zisopoulos](http://www.gravatar.com/avatar/919feaa12651b668d8ee9a41215b1976?s=48 "Christos Zisopoulos")](http://github.com/christos)
+[![javier ramirez](http://a2.twimg.com/profile_images/1393913747/javier-ramirez-2011-05_normal.jpg "javier ramirez")](http://twitter.com/supercoco9)
+[![Lorenzo Tello](http://a2.twimg.com/profile_images/820324826/Foto2CV_normal.jpg "Lorenzo Tello")](http://twitter.com/ltello)
+[![Jorge Manrubia](http://www.gravatar.com/avatar/a8b7add9e591acf027027a1d3bf18b1a?s=48 "Jorge Manrubia")](http://github.com/jorgemanrubia)
+[![](http://www.gravatar.com/avatar/d5582e211594e5628b05c600aaf2e740?s=48 "")](http://github.com/ciscou)
+[![Amaia](http://a3.twimg.com/profile_images/685461148/Chamomile_Fractal_2_normal.jpg "Amaia")](http://twitter.com/amaiac)
+[![Jose Manuel Beas](http://a3.twimg.com/profile_images/1511140521/fd53ee3e43036393a72bd44d3c8433a4_normal.png "Jose Manuel Beas")](http://twitter.com/jmbeas)
+[![](http://www.gravatar.com/avatar/09a14d61e3e1f8b1fe6866b4fdbb4abe?s=48 "")](http://github.com/valakirka)
+[![Anler Hernández Peral](http://www.gravatar.com/avatar/f744034eb2b62eb86bd79aa39ede4beb?s=48 "Anler Hernández Peral")](http://github.com/ikame)
+[![Fernando Martínez](http://a3.twimg.com/profile_images/1332204148/fmc2_normal.png "Fernando Martínez")](http://twitter.com/oinak)
+[![Raimond Garcia](http://a1.twimg.com/profile_images/546144993/proruby_avatara_normal.jpg "Raimond Garcia")](http://twitter.com/voodoorai2000)
+[![Javier Lafora](http://www.gravatar.com/avatar/4c79e8f0d5a11f8ecaaf555cbaa945d3?s=48 "Javier Lafora")](http://github.com/eLafo)
+[![Juanjo Bazán](http://www.gravatar.com/avatar/6b4aa22626f1183813b502e2d1f4ea2a?s=48 "Juanjo Bazán")](http://github.com/xuanxu)
+[![](http://www.gravatar.com/avatar/45742831d67c80d12cd7b24907b8d760?s=48 "")](http://github.com/porras)
+[![Javier Vidal](http://a0.twimg.com/profile_images/776224399/javiervidal_normal.jpg "Javier Vidal")](http://twitter.com/javiervidal)
+[![Jorge Gomez Sancha](http://www.gravatar.com/avatar/14e5d2f1671ea266a672fc03737cd953?s=48 "Jorge Gomez Sancha")](http://github.com/jorgesancha)
+[![Paco Guzmán](http://www.gravatar.com/avatar/6fab62c8f6e960775233a221ce9dd252?s=48 "Paco Guzmán")](http://github.com/pacoguzman)
+[![Pablo Alonso García](http://www.gravatar.com/avatar/0ab3f652778a59441aa53c52113b43d4?s=48 "Pablo Alonso García")](http://github.com/alonsogarciapablo)
+[![Daniel Rodríguez](http://a1.twimg.com/profile_images/20770082/love_normal.png "Daniel Rodríguez")](http://twitter.com/YoNoSoyTu)
+[![Alberto F. Capel](http://a0.twimg.com/profile_images/1163611288/profile_normal.jpg "Alberto F. Capel")](http://twitter.com/afcapel)
+[![Enrique Amodeo Rubio](http://a1.twimg.com/profile_images/229566008/perfil_normal.jpg "Enrique Amodeo Rubio")](http://twitter.com/eamodeorubio)
+[![Mª DEL CARMEN BERROS](http://a2.twimg.com/profile_images/1500675092/twitter_normal.jpg "Mª DEL CARMEN BERROS")](http://twitter.com/mcberros)
+[![Rafael Rebolleda](http://a0.twimg.com/profile_images/888478875/3559274028_6a5a9d0a78_o_normal.jpeg "Rafael Rebolleda")](http://twitter.com/rafaelrebolleda)
+[![Raúl Barroso](http://a2.twimg.com/profile_images/1241783332/image_normal.jpg "Raúl Barroso")](http://twitter.com/raulbarrosoleon)
+[![Sam Vérdor](http://a0.twimg.com/profile_images/1445906178/sandia_normal.gif "Sam Vérdor")](http://twitter.com/el_verdor)
+[![adam williams](http://a2.twimg.com/profile_images/808879534/AIbEiAIAAABECOmrl92o7uHqnQEiC3ZjYXJkX3Bob3RvKigyMWYxMmU4OTQ5ZTllNjZiYzE3NGQxMTRjNGNkY2FkM2U4Y2JlNmEwMAEPjFjnG_6B_LIL9IDCGc_yJLomCg_normal.jpeg "adam williams")](http://twitter.com/ACW5)
+[![Antonio Pardo](http://a0.twimg.com/profile_images/1549417072/15o_normal.png "Antonio Pardo")](http://twitter.com/apardo)
+[![Matt Ruzicka](http://a2.twimg.com/profile_images/1418463109/Photo_on_2010-10-02_at_17.10__2_normal.jpg "Matt Ruzicka")](http://twitter.com/mattruzicka)
+[![xdhanny](http://a3.twimg.com/sticky/default_profile_images/default_profile_4_normal.png "xdhanny")](http://twitter.com/xdhanny)
+[![Javi ](http://a3.twimg.com/profile_images/1359766102/2ad15274-a47b-495c-a3e2-48d1d0b3f4c9_normal.png "Javi ")](http://twitter.com/cintaroja)
+[![Samuel Vega](http://a3.twimg.com/profile_images/1436479475/innovega_logo01_small_normal.png "Samuel Vega")](http://twitter.com/innovega)
+[![Antonio Peña](http://a3.twimg.com/profile_images/1313428295/174516_normal.jpg "Antonio Peña")](http://twitter.com/apenav)
+[![Javier EN](http://a3.twimg.com/sticky/default_profile_images/default_profile_4_normal.png "Javier EN")](http://twitter.com/Javi_EN)
+[![Miguel Fernández](http://www.gravatar.com/avatar/bfc10c0ca5d53debe12fa2b7b66a434f?s=48 "Miguel Fernández")](http://github.com/miguelff)
+[![Raúl Naveiras](http://www.gravatar.com/avatar/532c4f2c1ed5317cf578ce1d3a14cd4c?s=48 "Raúl Naveiras")](http://github.com/rnaveiras)
+[![Dani Capello](http://a0.twimg.com/profile_images/1516199954/farsa_normal.jpg "Dani Capello")](http://twitter.com/dani_capello)
+[![Samuel Vega](http://a3.twimg.com/profile_images/1436479475/innovega_logo01_small_normal.png "Samuel Vega")](http://twitter.com/innovega)
+[![Jonatan Rojas](http://a0.twimg.com/profile_images/655201208/kodama_normal.jpg "Jonatan Rojas")](http://twitter.com/freshdroid)
+[![Guillermo Pascual](http://a2.twimg.com/profile_images/1483327494/Pasku1_avatar_normal.png "Guillermo Pascual")](http://twitter.com/pasku1)
+[![Javier Arce](http://a2.twimg.com/profile_images/1547575121/pynchon_normal.jpg "Javier Arce")](http://twitter.com/javier)
+[![Diego Rodriguez](http://www.gravatar.com/avatar/35795477499ec10eb6752298322054c4?s=48 "Diego Rodriguez")](http://github.com/diec123)
+[![Enrique Comba R.](http://a2.twimg.com/profile_images/1181846529/ecomba_normal.png "Enrique Comba R.")](http://twitter.com/ecomba)
+[![](http://www.gravatar.com/avatar/ed32ef9800d8f476f492ebe7e7cffa15?s=48 "")](http://github.com/hermesdt)
+[![](http://www.gravatar.com/avatar/0c8454d52bfc31808edae4f7b897252a?s=48 "")](http://github.com/andreslucena)
+[![Borja Martín](http://a3.twimg.com/profile_images/1159173526/dagi3d-avatar_normal.png "Borja Martín")](http://twitter.com/dagi3d)
+[![Ernesto Arroyo](http://www.gravatar.com/avatar/cb17138d68356e1f08897b4f590dfa79?s=48 "Ernesto Arroyo")](http://github.com/earroyoron)
+[![Silvia López](http://a3.twimg.com/profile_images/1562073905/yo_normal.jpg "Silvia López")](http://twitter.com/lopezsilvita)
+[![Abel Muiño](http://www.gravatar.com/avatar/d86345fbccb60f2ac80f6d2fad48baaa?s=48 "Abel Muiño")](http://github.com/amuino)
+[![Roberto Perez](http://a3.twimg.com/profile_images/1419379344/P1040038_normal.JPG "Roberto Perez")](http://twitter.com/hylian)
+[![Mathias Biilmann](http://www.gravatar.com/avatar/a731bc19c3b04919610fcee6d0589914?s=48 "Mathias Biilmann")](http://github.com/biilmann)
+[![Mathias Biilmann](http://www.gravatar.com/avatar/a731bc19c3b04919610fcee6d0589914?s=48 "Mathias Biilmann")](http://github.com/biilmann)
+[![Enrique García](http://a2.twimg.com/profile_images/1163890262/super_normal.png "Enrique García")](http://twitter.com/otikik)
+[![Tomás Borrella](http://a1.twimg.com/profile_images/1443618995/foto_comic_normal.jpg "Tomás Borrella")](http://twitter.com/tomasborrella)
+[![jglongaron](http://a3.twimg.com/sticky/default_profile_images/default_profile_0_normal.png "jglongaron")](http://twitter.com/jglongaron)
+[![Julio Jiménez](http://a0.twimg.com/profile_images/1293360311/foto_perfil_normal.jpg "Julio Jiménez")](http://twitter.com/juljimm)
+[![Francisco de Juan](http://a3.twimg.com/profile_images/1254559641/fjuan_normal.jpg "Francisco de Juan")](http://twitter.com/fjuan)
+[![Javier Acero](http://a2.twimg.com/profile_images/1498796207/avatar_normal.png "Javier Acero")](http://twitter.com/jacegu)
+[![David P.](http://a0.twimg.com/profile_images/53773232/yo_mayo_normal.jpg "David P.")](http://twitter.com/davidp78)

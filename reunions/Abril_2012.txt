@@ -1,0 +1,74 @@
+# Extending Ruby
+
+**Fecha:** Jueves, 26 de Abril de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/), Calle Duque de Rivas 5, Madrid. ([mapa](http://g.co/maps/4ktdg))<br/>
+**Hora:** 19:45h</br>
+**Vídeo:** [Vimeo](http://vimeo.com/58873830)
+
+
+Esta charla será una introducción a las extensiones en C para Ruby. Comenzando por el estilo clásico hasta FFI. Trataremos ventajas, inconvenientes y trade-offs de las distintas técnicas.
+
+Hablaré sobre temas como la traducción de tipos de datos en código C, gestión de memoria, wadus...
+
+## Raúl Naveiras ([@rnaveiras](http://twitter.com/rnaveiras))
+
+Raúl comenzó a programar hace más de 15 años, durante los cuales ha realizado todo tipo de proyectos y usando todo tipo de lenguajes. 
+
+Actualmente forma parte de un fantástico equipo trabajando como developer en [BeBanjo][1].
+
+[1]: http://bebanjo.com
+
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+## Asistentes
+
+¿Vienes? Apúntate [editando](?m=edit) esta página
+
+@otikik<br/>
+@pasku1<br />
+@fuzzyalej<br />
+@diec123<br />
+@ferblape<br />
+@serabe<br />
+@migupl<br />
+@arctarus<br />
+@werelax<br />
+@alexeiras<br />
+@eLafo <br />
+@xuanxu <br />
+@\_pablo_alonso <br />
+@supercoco9 <br />
+@andres <br />
+@oinak «--al final no voy a poder :'(<br />
+@celeduc <br/>
+@ivanfdezperea <br/>
+@wchiquito<br/>
+@kanedaki <br/>
+@zipizap<br/>
+@mcdave<br />
+@cavalle<br/>
+@laura\_morillo<br/>
+@jjtd<br/>
+@jpgerek<br/>
+@MarkVillacampa<br/>
+@ciscou<br/>
+@kilianbarrera <br/>

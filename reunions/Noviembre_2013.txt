@@ -1,0 +1,63 @@
+**Fecha:** Jueves, 28 de Noviembre de 2013 <br/>
+**Lugar:** [Utopic_US US3](http://www.utopicus.es/) ([c/ Colegiata 9](https://www.google.com/maps/preview#!q=Calle+Colegiata%2C+9%2C+Madrid%2C+Spain&data=!4m10!1m9!4m8!1m3!1d203964!2d-3.6795367!3d40.4378271!3m2!1i1436!2i806!4f13.1))<br/>
+**Hora:** 19:45h<br/>
+**Video:** [Vimeo](https://vimeo.com/84568788)
+
+# Ruby y Ciencia
+
+En el mundo científico hoy en día, en todos los campos de investigación existen tareas que necesitan programación y desarrollos a medida a la hora de analizar datos o producir resultados. Sin embargo cuando un científico sin experiencia en programación se encuentra con un problema que requiere código en casi ningún caso utiliza Ruby ¿Por qué? 
+En esta charla intentaremos responder a esta pregunta, veremos cual es el estado actual de Ruby como herramienta para usos científicos e intentaremos ver qué podemos hacer para convertir a Ruby en el lenguaje preferido para la ciencia.
+
+## Juanjo Bazán ([@xuanxu](https://twitter.com/xuanxu))
+
+Juanjo es miembro del equipo de [ProRuby](http://www.prorubyteam.com). Lleva ya unos cuantos años infiltrado en la comunidad ruby, ayudando a fundar el madrid.rb, y a organizar la extinta Conferencia Rails y alguna Euruko. En sus ratos libres utiliza ruby para colaborar en proyectos de investigación en campos tan diversos como astrofísica, genómica o sociología. Está orgulloso de haber colado en Rails [un método que no hace nada](https://github.com/rails/rails/commit/8270e4a8ce8337fca98030953922e5992b06a3dd).
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+
+* @martincabrera
+* @otikik
+* @xuanxu
+* @chsanch
+* @samlown
+* @michaelkoper
+* @ciscou
+* @gootyfer
+* @demimismo
+* @mroguzman
+* @amartinfraguas
+* @rul_foo
+* @oinak
+* @lparedesdev
+* @diec123
+* jose_luis
+* manu
+* @elreplicante
+* @joseferrer
+* @laura_morillo
+* @martafonda
+* @forkmyreligion
+* @MarkVillacampa
+* @christos
+* djtachu
+* @acw5
+* @alejandrodob
+* @jglongaron
+* @jfcalvo

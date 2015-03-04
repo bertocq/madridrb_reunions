@@ -1,0 +1,86 @@
+# Una introducción al testing y al TDD.
+
+**Fecha:** Jueves, 30 deAgosto de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:00h
+
+Como continuación del [curso gratuito de Ruby on Rails para programadores en paro](http://javier-ramirez.com/curso-gratuito-solidario-ruby-on-rails.html) que han ofrecido Javier Ramírez y cía, vamos a dar una pequeña introducción al testing y al TDD en Ruby y Ruby on Rails, y así completar el ciclo de desarrollo de una aplicación.
+
+Invitamos tanto a los asistentes a ese curso como a cualquier otra persona interesado en el tema del testing en Ruby y Ruby on Rails a que se pase. 
+
+## Raúl Naveiras ([@rnaveiras](http://twitter.com/rnaveiras))
+
+Raúl comenzó a programar hace más de 15 años, durante los cuales ha realizado todo tipo de proyectos y usando todo tipo de lenguajes. 
+
+Actualmente forma parte de un fantástico equipo trabajando como developer en [BeBanjo][1].
+
+[1]: http://bebanjo.com
+
+## Fernando Blat ([@ferblape](http://twitter.com/ferblape))
+
+[Fernando](http://fernando.blat.es) lleva más de 7 años trabajando como desarrollador web. Aquí puedes encontrar una [lista de proyectos en los que ha participado](http://fernando.blat.es/me/projects).
+
+Actualmente trabaja con Raúl en [BeBanjo][1].
+
+[1]: http://bebanjo.com
+
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @rnaveiras
+* @ferblape
+* @emacip
+* @arctarus
+* @joshka20
+* @apenav
+* @izgaka
+* @JcEstebanGo
+* @samlown
+* @eyliss
+* @amaiac
+* @laura_morillo
+* @fuzzyalej
+* @eLafo
+* @DonQuicong
+* @MarkVillacampa
+* @hopitawm
+* @migupl
+* @borjafv
+* @juanyque
+* @tomasborrella
+* @jglongaron
+* @sertorresalonso
+* @osquitar7
+* @fesotovi
+* @carlossanchezp
+* @malahe_jc
+* @ciscou
+* @sgmac
+* @psgonza
+* @fcofdezc
+* @fjuan
+* @manu1621
+* @jdevega
+* @xclickclickx

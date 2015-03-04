@@ -1,0 +1,60 @@
+# Coding Dojo en Madrid-rb
+
+**Fecha:** Jueves, 29 de Noviembre de 2012<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h<br/>
+**Vídeo:** [vimeo](https://vimeo.com/52987852)
+
+En esta ocasión haremos un [Coding Dojo](http://codingdojo.org/). Un coding dojo es un tipo de reunión en la cual un grupo de programadores resuelve un problema de forma iterativa. El objetivo es pasarlo bien y practicar algunas técnicas de programación.
+
+## Enrique García ([@otikik](http://twitter.com/otikik))
+
+Enrique lleva 3 años desarrollando profesionalmente en ruby. Si le tiráis un poco de la lengua os hablará de otros lenguajes, o de su oscuro pasado en el mundo de la consultoría. Le gusta [desarrollar código open source](https://github.com/kikito), y es el coordinador de madrid-rb.
+
+Hoy, buscado por recruiters, sobrevive como freelance de fortuna. Si usted tiene algún proyecto y se lo encuentra, tal vez pueda contratarlo.
+
+## Ofrecido por ##
+
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/vizzuality.png' alt='Vizzuality'/>][10]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://dl.dropbox.com/u/645329/logos/lextrend.png' alt='Lextrend'/>][16]     
+
+[10]: http://www.vizzuality.com/
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @otikik
+* @pasku1
+* @jmanrubia
+* @acw5
+* @arctarus
+* @earroyoron
+* @jdevega
+* @ferblape
+* @ciscou
+* @zipizap
+* @desarrolla2
+* etd
+* @fjuan
+* @dparracatalan
+* @carlossanchezp
+* @africajam
+* @eamoderubio
+* @mcberros
+* @amaiac
+* @laura_morillo
+* @cesar_somapop

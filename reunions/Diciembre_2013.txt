@@ -1,0 +1,92 @@
+**Fecha:** Jueves, 26 de Diciembre de 2013 <br/>
+**Lugar:** [Utopic_US US3](http://www.utopicus.es/) ([c/ Colegiata 9](https://www.google.com/maps/preview#!q=Calle+Colegiata%2C+9%2C+Madrid%2C+Spain&data=!4m10!1m9!4m8!1m3!1d203964!2d-3.6795367!3d40.4378271!3m2!1i1436!2i806!4f13.1))<br/>
+**Hora:** 19:45h<br/>
+**Video:** [Vimeo](http://vimeo.com/85642729)
+
+
+# Catacrockea a cascoporro con redis
+
+Todo el mundo está usando Redis, y con motivo: Es rápido, es fácil y es web scale. Pero Redis puede hacer muchas más cosas de las típicas para las que lo usa la comunidad Ruby. En esta charla hablaré sobre lo que se puede hacer con Redis, cómo lo están usando empresas como twitter o pinterest, las cosas que no deberías hacer con redis, algunos patrones interesantes de uso, y cómo lo estamos usando en teowaki para resolver un montón de problemas.
+
+## Javier Ramírez ([@supercoco9](https://twitter.com/supercoco9))
+
+Desarrollador web, soñador y en general una persona feliz. Interesado en todo lo que tenga que ver con Internet y cómo está cambiando nuestra cultura y nuestra sociedad.
+Fundador de [teowaki.com](http://teowaki.com), donde intentamos hacer más felices a los desarrolladores ayudándoles a compartir información técnica, rumores y lifehacks con sus amigos desarrolladores.
+
+Vivo en Londres, pero puedes encontrarme en [javier-ramirez.com](http://javier-ramirez.com) y como [@supercoco9](https://twitter.com/supercoco9) en twitter.
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+
+**Amigos expatriados, háganlo saber así -> 🇯🇵**
+
+* @supercoco9 🇬🇧
+* @xemig  🇩🇪
+* @ferblape
+* @xuanxu
+* @ciscou
+* @amaiac
+* @jerolba
+* @happywebcoder 🇺🇸
+* [@eLobatoss](https://twitter.com/elobatoss)
+* @rnaveiras 🇬🇧
+* @porras 🇩🇪
+* @valakirka 🇩🇪
+* @voodoorai2000 🇯🇵
+* @alexcocia
+* @jaimeiniesta
+* @istepaniuk
+* @gootyfer
+* @arpahector
+* Unai Trecet
+* @manute
+* @kanedaki
+* @dsaenztagarro
+* @joshka20
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* [@martincabrera](https://twitter.com/martincabrera)
+* [@eLafo](https://twitter.com/elafo)
+* @dani_oton
+* [@oinak](https://twitter.com/oinak)
+* @rocknrollesque
+* @cavalle 🇬🇧
+* @ArturoHerrero 🇬🇧
+* @marcelinollano
+* Javier Perez
+* [@pasku1](https://twitter.com/pasku1)
+* [@wchiquito](https://twitter.com/wchiquito)
+* @murtr4
+* @colgado
+* @alejanderl
+* [@Serabe](https://twitter.com/Serabe)
+* @javierhdez3
+* [@elreplicante](https://twitter.com/elreplicante)
+* [@cusna](https://twitter.com/cusna)
+* [@alejandrodob](https://twitter.com/alejandrodob)
+* @_aitor ![](http://usefulshortcuts.com/imgs/flags/is.png)
+* @begoesti  ![](http://usefulshortcuts.com/imgs/flags/is.png)
+* @joseferrer
+* [@lauralacarra](https://Twitter.com/lauralacarra)
+* [@germandz](https://Twitter.com/germandz)
+* Igor Rootsi ![](http://usefulshortcuts.com/imgs/flags/ee.png)
+* [@happensesame](http://cortapincha.com)
+* @lparedesdev
+* [@MartaFonda](https://twitter.com/MartaFonda)
+* @jglongaron

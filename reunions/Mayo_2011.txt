@@ -1,0 +1,71 @@
+# Sphinx vs Solr
+
+**Fecha:** Jueves, 26 de Mayo de 2011<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h
+
+## Cosicas de Sphinx que lo mismo no sabías
+
+Desde que @pablete nos presentó Sphinx en la conferencia rails 2007, hemos sido muchos los que nos hemos decantado por esta opción a la hora de implementar búsqueda de texto libre en nuestra aplicación. Sin embargo, gracias a lo fácil que es la integración mediante thinking sphinx, en muchos casos no se sabe muy bien cómo funciona sphinx por debajo, y qué cosas se pueden hacer con él más allá de los ejemplos simplones de la documentación de thinking sphinx.
+
+En esta charla, aprovecharé para contar un poco cómo funciona Sphinx, algunas de las cosas que podemos hacer con él y que no se usan demasiado, y las posibles implicaciones en rendimiento de utilizar funcionalidades como el resaltado de ocurrencias en los resultados de búsqueda.
+
+### Javier Ramírez
+
+Javier Ramírez habla mucho… ya os daréis cuenta. Vive en [http://javier-ramirez.com](http://javier-ramirez.com) y veranea en [http://twitter.com/supercoco9](http://twitter.com/supercoco9)
+
+
+## Introducción a Solr-Lucene en Rails con Sunspot
+
+No tan conocido como Sphinx para montar tu buscador en aplicaciones Rails pero basado en una solución muy potente y compleja como Solr-Lucene os contaré como montar tu buscador utilizando la gema Sunspot en tu aplicación Rails. Como introducción contaré una notas básicas sobre configuración y utilización de la gema, sin centrarnos en detalles de Solr-Lucene.
+
+### Paco Guzmán
+
+Paco Guzmán… (habla poco). De los más rápidos encontrando nuevas gemas, early adopter sin complejos, podéis encontrarme diciendo alguna bobada como [@pacoguzman](http://twitter.com/pacoguzman)
+
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* [@supercoco9](http://twitter.com/supercoco9)
+* [@pacoguzman](http://twitter.com/pacoguzman)
+* [@cavalle](http://twitter.com/cavalle)
+* [@ecomba](http://ecomba.org) (al final no puedo ir)
+* [@dgilperez](http://twitter.com/dgilperez)
+* [@xuanxu](http://twitter.com/xuanxu)
+* [@alvarodt](http://twitter.com/alvarodt)
+* [@yonosoytu](http://twitter.com/yonosoytu)
+* [@javier](http://twitter.com/javier)
+* [@eamodeorubio](http://twitter.com/eamodeorubio)
+* [@mcberros](http://twitter.com/mcberros)
+* <strike>[@ferdev](http://twitter.com/ferdev)</strike> (tampoco puedo ir)
+* [@javiervidal](http://twitter.com/javiervidal)
+* [@amaiac](http://twitter.com/amaiac)
+* [@izgaka](http://twitter.com/izgaka)
+* [@topowanda](http://twitter.com/topowanda)
+* [@miguellc](http://twitter.com/miguellc)
+* [@elafo](http://twitter.com/elafo)
+* [@voodoorai2000](http://twitter.com/voodoorai2000)
+* [@arctarus](http://twitter.com/arctarus)
+* <strike>@lparedesdev</strike> (no me da la vida)
+* [@diec123](http://twitter.com/diec123)
+* [@josemspain](http://twitter.com/josemspain)
+* [@blogatclock](http://twitter.com/blogatclock)
+* [@slavy](http://twitter.com/slavy)
+* [@sigilioso](http://twitter.com/sigilioso)
+* [@ikame](http://twitter.com/ikame)
+* [@vitiman](http://twitter.com/vitiman)
+* [@oinak](http://twitter.com/oinak)
+* [@emacip](http://twitter.com/emacip)
+* [@apardo](http://twitter.com/apardo)
+* [@acw5](http://twitter.com/acw5)
+* [@chemaaa](http://twitter.com/chemaaa)
+* @jcea
+* [@wchiquito](http://twitter.com/wchiquito)
+* [@ciscou](http://twitter.com/ciscou)
+* @andres
+* @otikik
+* @jerolba
+* @kanedaki
+* @samlown

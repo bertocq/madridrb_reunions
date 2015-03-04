@@ -1,0 +1,18 @@
+# Fibers in Ruby 1.9 #
+
+**Fecha:** Jueves, 25 de Noviembre de 2010<br/>
+**Lugar:** Aula The Cocktail<br/>
+**Hora:** 19:45h
+
+In tonight's talk Murray Steele is going to tell you about fibers, a new feature in ruby 1.9 that provides an alternative to threads for doing concurrency. He'll cover some of the background behind what fibers are, the fibers api so you know how to use them and some examples of places where fibers are being used.
+
+At the end of the talk, if you're interested he can talk a little about Ruby Manor as it's not a traditional conference and he'd love it if other rubyists picked up the idea and ran their own Ruby Manor style events.
+
+## Murray Steele ##
+
+Murray Steele has been using ruby for almost 7 years, and getting paid to do so for the last 5. In that time he's become a passionate rubyist and this has led him to become the current organiser of the London Ruby User Group, a position he's held for 4 years. He's also co-organised two day-long ruby conferences in London; Ruby Manor in 2008 and Ruby Manor 2: Manor Harder in 2009.
+
+## Resources ##
+
+* [Some rough fibrous material - Madrid.rb - Nov 2010.key](http://dl.dropbox.com/u/645329/Some%20rough%20fibrous%20material%20-%20Madrid.rb%20-%20Nov%202010.key)
+* [Some rough fibrous material - Madrid.rb - Nov 2010.pdf](http://dl.dropbox.com/u/645329/Some%20rough%20fibrous%20material%20-%20Madrid.rb%20-%20Nov%202010.pdf)
