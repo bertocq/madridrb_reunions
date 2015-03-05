@@ -2,8 +2,7 @@
 
 ###CAUTION, NEW VENUE!
 
-**Venue:** [The Irish Rover](http://www.theirishrover.com/)
-- [Avenida de Brasil, 7](https://www.google.com/maps/place/The+Irish+Rover/@40.4549437,-3.6936623,17z/data=!4m7!1m4!3m3!1s0xd422902b93a7b4f:0xcdf2773b21bd0810!2sAv+de+Brasil,+7!3b1!3m1!1s0x0:0xac5dccb9e6db0dd5)
+**Lugar:** [The Irish Rover](http://www.theirishrover.com/) - [Avenida de Brasil, 7](https://www.google.com/maps/place/The+Irish+Rover/@40.4549437,-3.6936623,17z/data=!4m7!1m4!3m3!1s0xd422902b93a7b4f:0xcdf2773b21bd0810!2sAv+de+Brasil,+7!3b1!3m1!1s0x0:0xac5dccb9e6db0dd5)
 
 **Time:** 19:45h<br/>
 **Video:** [Vimeo](http://vimeo.com/96569880)
@@ -34,9 +33,9 @@ Sam, CTO and co-founder of [Cabify](http://www.cabify.es/), is obsessed with fin
 [14]: http://aspgems.com/
 [16]: http://www.lextrend.com/
 
-### Attendees
+### Asistentes
 
-*([Edit](?m=edit) this page and add yourself to the list if you are planning to come)
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @samlown
 * @otikik

@@ -6,7 +6,7 @@
 - [Avenida de Brasil, 7](https://www.google.com/maps/place/The+Irish+Rover/@40.4549437,-3.6936623,17z/data=!4m7!1m4!3m3!1s0xd422902b93a7b4f:0xcdf2773b21bd0810!2sAv+de+Brasil,+7!3b1!3m1!1s0x0:0xac5dccb9e6db0dd5)
 
 **Hora:** 19:45h<br/>
-**Video:** [Vimeo](https://vimeo.com/110196699)
+**Video:** [Vimeo](http://vimeo.com/110196699)
 
 
 # RubyMotion, desarrollo móvil en Ruby

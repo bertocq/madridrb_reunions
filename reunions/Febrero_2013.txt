@@ -1,5 +1,95 @@
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+# *DOUBLE FEATURE*:  MongoDB & Rails ([vídeo](http://vimeo.com/62438637)) & Videojuegos 2D con Ruby + Competición ([vídeo](http://vimeo.com/62488793))
 
+**Fecha:** Jueves, 28 de Febrero de 2013<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Hora:** 19:45h<br/>
+**Vídeos:** (ver más abajo)
+
+----
+
+# MongoDB & Rails
+
+Introducción a MongoDB y a sus ventajas e inconvenientes respecto a una base de datos relacional en aplicaciones Rails.
+
+### Amaia Castro [@amaiac](http://www.twitter.com/amaiac)
+
+MicroBio: Actualmente desarrolladora Rails freelance y poco inspirada para escribir bios, puedes ver más sobre mí en [amaiacastro.com](http://amaiacastro.com)
+
+[Ver vídeo en Vimeo](http://vimeo.com/62438637)
+
+----
+
+# Videojuegos 2D con Ruby + Competición
+
+Tradicionalmente no se usa Ruby para el desarrollo de videojuegos, pero en esta charla veremos lo fácil que es crear un videojuego 2D con Ruby y también las limitaciones que tiene. Al tener esa base, os voy a proponer una pequeña competición de programación para todos en que se trata de programar el mejor tanque para una batalla entre todos de los participantes. ¡Venid para ver los detalles!
+
+### Adam Williams [@acw5](http://twitter.com/acw5)
+
+Adam Williams nació en Minneapolis, Minnesota y lleva 6 años viviendo en España. Usa Ruby profesionalmente para hacer desarrollo con Rails y aparte tiene un proyecto personal hecho con Sinatra y el api streaming de Twitter relacionado con el fútbol [http://imbetting.io](http://imbetting.io).
+
+[Ver vídeo en Vimeo](http://vimeo.com/62488793)
+
+----
+
+## Ofrecido por ##
+ 
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/bebanjo.png' alt='BeBanjo'/>][11]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/proruby.png' alt='ProRuby'/>][12]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/tck.png' alt='The Cocktail'/>][13]     
+<br/>
+<br/>
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/aspgems.png' alt='ASPgems'/>][14]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lci.png' alt='LCIberica'/>][15]     
+[<img width='150px' src='http://madridrb.github.com/images/sponsors/lextrend.png' alt='Lextrend'/>][16]     
+
+[11]: http://www.bebanjo.com/
+[12]: http://www.prorubyteam.com/
+[13]: http://the-cocktail.com/
+[14]: http://aspgems.com/
+[15]: http://www.lciberica.es/
+[16]: http://www.lextrend.com/
+
+### Asistentes
+
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
+
+* @otikik
+* @amaiac
+* @acw5
+* @mcberros
+* @eamodeorubio
+* @colgado
+* @ferblape
+* @laura_morillo
+* @jmanrubia
+* @ivanfdezperea
+* @ciscou
+* @eLafo
+* @christos
+* @diec123
+* @dgc273
+* @zipizap
+* [@carlossanchezp](https://twitter.com/carlossanchezp)
+* [@supercoco9](https://twitter.com/supercoco9)
+* @dparracatalan
+* @pasku1
+* @jmoratilla
+* @joseluis
+* @mikelodeon
+* @antarticonorte
+* @amartinfraguas
+* [@littlemove](https://twitter.com/littlemove)
+* @jmdlta
+* @javierhdez3
+* @alvarosanmartin
+* @afcapel
+* [@wchiquito](https://twitter.com/wchiquito)
+* @darkrodry
+* [@RaulFlint](https://twitter.com/RaulFlint)
+* @algohace
+* @samlown
+* [@jdevega](https://twitter.com/jdevega)
+* [@adrpz](https://twitter.com/adrpz)
 **Fecha:** Jueves, 28 de Febrero de 2013<br/>
 **Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
 **Hora:** 19:45h<br/>

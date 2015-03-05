@@ -33,9 +33,9 @@ Pese a acabar de cumplir 20 años, Marcos lleva más de 5 años en el mundo de l
 [15]: http://www.lciberica.es/
 [16]: http://www.lextrend.com/
 
-## Asistentes
+### Asistentes
 
-¿Vienes? Apúntate [editando](?m=edit) esta página
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @iamzenitram
 * @victorianoi

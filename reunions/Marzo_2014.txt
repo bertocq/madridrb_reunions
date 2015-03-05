@@ -29,9 +29,9 @@ Desarrollador web, intentando ser pragmático con la tecnología para poder toma
 [14]: http://aspgems.com/
 [16]: http://www.lextrend.com/
 
-### Participantes
+### Asistentes
 
-*([Edita](?m=edit) esta página y añádete a la lista si tienes pensado asistir)*
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @carlossanchezp
 * @otikik

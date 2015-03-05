@@ -3,7 +3,7 @@
 **Fecha:** Jueves, 25 de Octubre de 2012<br/>
 **Lugar:** [Utopic_US](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
 **Hora:** 19:45h<br/>
-**Vídeo:** [vimeo](https://vimeo.com/52987852)
+**Vídeo:** [vimeo](http://vimeo.com/52987852)
 
 Todos hemos trabajando alguna vez con una aplicación con código legacy. Refactoring es una técnica que nos permite reestructurar y rediseñar el código de nuestra aplicación sin modificar su comportamiento de forma que sea más legible y más fácil de mantener. Veremos las ventajas e inconvenientes de refactoring así como algunas de las técnicas principales que se aplican durante una refactorización.
 

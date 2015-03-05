@@ -32,9 +32,9 @@ Cansado de la burocracia, ineficiencia y políticas de trabajo anticuadas, empez
 [15]: http://www.lciberica.es/
 [16]: http://www.lextrend.com/
 
-## Asistentes
+### Asistentes
 
-¿Vienes? Apúntate [editando](?m=edit) esta página
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @otikik
 * @nestorsalceda

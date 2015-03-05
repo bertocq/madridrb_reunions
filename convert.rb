@@ -60,6 +60,96 @@ def set_speakers speakers
 end
 
 
+def parse_reunion(reunions,reunion)
+  text = File.open("./reunions/#{reunion}.txt").read
+  #text = File.open(file).read
+  #puts file
+
+  # obtain and clean additional data
+  text.gsub!('<br/>', '')
+
+  # LOCATION
+  location_regex = /\*\*Lugar:\*\* (.*?)$/
+  reunions[reunion][:location] = text[location_regex, 1]
+  # delete location
+  text.gsub!(/#{Regexp.quote(text[location_regex, 0])}\n*/, '') unless !text[location_regex, 0]
+
+  # delete date
+  date_regex = /\*\*Fecha:\*\* (.*?)$/
+  text.gsub!(/#{Regexp.quote(text[date_regex, 0])}\n*/, '') unless !text[date_regex, 0]
+
+  # delete hour
+  hour_regex = /^\*\*Hora:\*\* (.*?)$/
+  text.gsub!(/#{Regexp.quote(text[hour_regex, 0])}\n*/, '') unless !text[hour_regex, 0]
+
+  # for each topic, search for video url
+  reunions[reunion][:topics].map do |topic|
+    titles = text.scan(/#{Regexp.quote(topic[:title])} \(\[vídeo\]\((http:\/\/vimeo.com\/[0-9]+)\)/)
+    titles.each do |video_url|
+      #puts "video en titulo "+ video_url[0].to_s
+      topic[:video_url] = video_url[0] || nil
+    end
+    video_in_title = text[/\*\*(Vi|vi|Ví|Vi)deo:\*\* \[(v|V)imeo\]\((http:\/\/vimeo.com\/[0-9]+)\)/,3]
+    if topic[:video_url].nil? && !video_in_title.nil?
+      #puts "Video en cabecera "+text[/\*\*Video:\*\* \[vimeo\]\((http:\/\/vimeo.com\/[0-9]+)\)/,1].to_s
+      topic[:video_url] = video_in_title || nil
+    end
+  end
+
+
+  # SPONSORS
+  #@TODO
+
+  # PARTICIPANTS
+=begin
+  participants_regex = /\n\#\#\# Asistentes(.*)/m
+  unless text[participants_regex, 0].nil?
+    #puts text[participants_regex, 0]
+    #¿Vienes? Apúntate [editando](?m=edit) esta página
+    participant_list = text[participants_regex, 1].to_s.sub!("\n*([Edita](?m=edit) la página y añádete si tienes previsto venir)*\n\n",'')
+    text.gsub!(text[participants_regex, 0],'')
+    participants = participant_list.scan(/\* (@\w*)/) unless participant_list.nil?
+    #participants.map! { |participant| {:name=> participant} }
+    #@TODO => Each participant needs :name and :url
+    #* [Gerardo Barcia](http://www.gerardobarcia.com)
+    #* [@apradillap](http://www.twitter.com/apradillap)
+    #* @patriciagao
+    #* joseluis
+    #* @cavalle 🇬🇧
+    #* @_aitor ![](http://usefulshortcuts.com/imgs/flags/is.png)
+    #....
+  end
+  reunions[file][:participants] = participants || nil
+  #puts reunions[file][:participants]
+=end
+
+  # DESCRIPTION
+  reunions[reunion][:description] = text
+=begin
+  err = ''
+  err << "\nNO DATE" if reunions[reunion][:date].nil?
+  err << "\nNO DESC" if reunions[reunion][:description].nil?
+  err << "\nNO FILE" if reunions[reunion][:file].nil?
+  err << "\nNO LINK" if reunions[reunion][:link].nil?
+  err << "\nNO LOCATION" if reunions[reunion][:location].nil?
+  err << "\nNO MONTH" if reunions[reunion][:month].nil?
+  err << "\nNO YEAR" if reunions[reunion][:year].nil?
+  reunions[reunion][:topics].each do |topic|
+    #err << "\nNO TOPIC TITLE" if topic[:title].nil?
+    #err << "\nNO TOPIC SPEAKERS" if topic[:speakers].nil?
+    err << "NO TOPIC VIDEO" if topic[:video_url].nil?
+    err << "VIDEO: "+topic[:video_url].to_s if !topic[:video_url].nil?
+  end
+  if err !=''
+    puts "\n================================================="
+    puts reunion
+    puts err
+  end
+  #puts reunions[file].to_json
+=end
+end
+
+
 force_download = ARGV[0] == '-d'
 
 # read list of reunions
@@ -85,7 +175,7 @@ text.each_line do |line|
       link = compose_link line[/\[\[(.*?)\]\]/, 1]
   end
 
-  date  = line[/\*\*(.*?)\*\*/, 1]
+  date  = line[/\*(.*?)\*\*/, 1]
   month = line[/\[(.+) ([0-9]{4})\]/,  1].sub('[', '')
   year  = line[/\[(.+) ([0-9]{4})\]/, 2]
 
@@ -123,6 +213,8 @@ text.each_line do |line|
 
   reunions[month + '_' + year] = { link: link, date: date, month: month,
                                    year: year, topics: topics, file: file || nil }
+  parse_reunion(reunions,"#{month + '_' + year}") if link.ascii_only? && !file.nil?
+
 end
 
 
@@ -132,65 +224,3 @@ puts 'Writting ./reunions.json'
 File.write('./reunions.json', reunions.to_json)
 
 
-def parse_file(reunions,file)
-  text = File.open("./reunions/#{file}.txt").read
-
-  # obtain and clean additional data
-  text.gsub!('<br/>', '')
-
-  # LOCATION
-  location_regex = /\*\*Lugar:\*\* (.*?)$/
-  location = text[location_regex, 1]
-  text.gsub!(/#{Regexp.quote(text[location_regex, 0])}\n*/, '')
-
-  # delete date
-  date_regex = /\*\*Fecha:\*\* (.*?)$/
-  if text[date_regex, 0] then text.gsub!(/#{Regexp.quote(text[date_regex, 0])}\n*/, '') end
-
-  # delete hour
-  hour_regex = /^\*\*Hora:\*\* (.*?)$/
-  text.gsub!(/#{Regexp.quote(text[hour_regex, 0])}\n*/, '')
-
-  # VIDEO URL's
-  video_regex = /\(http:\/\/vimeo.com\/(.*?)\)/
-  # for each topic, search for video url
-  reunions[file][:topics].map do |topic|
-    titles = text.scan(/#{Regexp.quote(topic[:title])}(.*)$\n*/)
-    titles.each do |found_title|
-      if found_title.to_s[video_regex, 0]
-        video_url = found_title.to_s[video_regex,0].to_s.gsub!(/\(|\)/,'')
-      end
-      topic[:video_url] = video_url || nil
-    end
-  end
-
-  # SPONSORS
-  #@TODO
-
-  # PARTICIPANTS
-  participants_regex = /\n\#\#\# Asistentes(.*)/m
-  if text[participants_regex, 0]
-    participant_list = text[participants_regex, 1].to_s.sub!("\n*([Edita](?m=edit) la página y añádete si tienes previsto venir)*\n\n",'')
-    text.gsub!(text[participants_regex, 0],'')
-    participants = participant_list.scan(/\* @(\w*)/)
-    #@TODO => Each participant needs :name and :url
-    #* [Gerardo Barcia](http://www.gerardobarcia.com)
-    #* [@apradillap](http://www.twitter.com/apradillap)
-    #* @patriciagao
-    #* joseluis
-    #* @cavalle 🇬🇧
-    #* @_aitor ![](http://usefulshortcuts.com/imgs/flags/is.png)
-    #....
-  end
-
-  # DESCRIPTION
-  description = text
-
-
-  #puts text
-end
-
-#reunion_file = 'Septiembre_2010'
-#parse_file(reunions,reunion_file)
-
-#puts reunions[reunion_file]

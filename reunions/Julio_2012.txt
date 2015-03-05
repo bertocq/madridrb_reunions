@@ -10,9 +10,9 @@ Para combatir esta trágica y desconocida dolencia veraniega, madrid-rb ofrece e
 
 Terracismo-rb te permite reponer tus maltrechas reservas de colesterol, consumiendo cervezas y/o refrescos, con la excusa de reunirte con afamados rubystas (o quien quiera venir; es un evento abierto).
 
-## Asistentes
+### Asistentes
 
-¿Vienes? Apúntate [editando](?m=edit) esta página
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @otikik
 * @amaiac

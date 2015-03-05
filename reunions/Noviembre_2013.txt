@@ -1,7 +1,7 @@
 **Fecha:** Jueves, 28 de Noviembre de 2013 <br/>
 **Lugar:** [Utopic_US US3](http://www.utopicus.es/) ([c/ Colegiata 9](https://www.google.com/maps/preview#!q=Calle+Colegiata%2C+9%2C+Madrid%2C+Spain&data=!4m10!1m9!4m8!1m3!1d203964!2d-3.6795367!3d40.4378271!3m2!1i1436!2i806!4f13.1))<br/>
 **Hora:** 19:45h<br/>
-**Video:** [Vimeo](https://vimeo.com/84568788)
+**Video:** [Vimeo](http://vimeo.com/84568788)
 
 # Ruby y Ciencia
 
@@ -30,7 +30,7 @@ Juanjo es miembro del equipo de [ProRuby](http://www.prorubyteam.com). Lleva ya 
 
 ### Asistentes
 
-*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @martincabrera
 * @otikik

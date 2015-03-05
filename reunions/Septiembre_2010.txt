@@ -1,7 +1,7 @@
 # RabbitMQ + Ruby #
 
 **Fecha:** Jueves, 30 de Septiembre de 2010<br/>
-**Lugar:** Lugar: Aula The Cocktail<br/>
+**Lugar:** Aula The Cocktail<br/>
 **Hora:** 19:45h
 
 * RabbitMQ ¿Qué es? ¿Cómo funciona? AMQP, XMPP, y otras siglas

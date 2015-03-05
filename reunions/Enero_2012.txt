@@ -48,7 +48,7 @@ Fuentes: [https://github.com/germandz/hbs_demo](https://github.com/germandz/hbs_
 
 ### Asistentes
 
-¿Vienes? Apúntate [editando](?m=edit) esta página
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @cavalle
 * @christos

@@ -1,7 +1,7 @@
 **Fecha:** Jueves, 25 de Julio de 2013<br/>
-**Luagar:** [Utopic_US](http://www.utopicus.es/) ([map](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
+**Lugar:** [Utopic_US](http://www.utopicus.es/) ([map](http://maps.google.es/maps?f=q&source=embed&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&ll=40.413867,-3.706683&spn=0.036727,0.076818&z=14))<br/>
 **Hora:** 19:45h<br/>
-**Video:** [Vimeo](https://vimeo.com/71801624)
+**Video:** [Vimeo](http://vimeo.com/71801624)
 
 # Explotando relaciones de forma escalable con Neo4j
 
@@ -35,7 +35,7 @@ Tambíen haremos una batalla de [RTanque](https://groups.google.com/forum/?hl=en
 
 ### Asistentes
 
-*([Edit](?m=edit) this page and add yourself if you are planning to attend)*
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @albertoperdomo
 * @otikik

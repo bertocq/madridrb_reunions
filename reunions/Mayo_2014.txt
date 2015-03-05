@@ -37,7 +37,7 @@ David Heinemeier(DHH), un importante referente de la comunidad de desarrollo de 
 
 ### Asistentes
 
-[Edita](?m=edit) esta página si tienes pensado asistir. Nos ayuda con la gestión del espacio. ¡Gracias!
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @otikik
 * [Gerardo Barcia](http://www.gerardobarcia.com)
