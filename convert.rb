@@ -151,29 +151,46 @@ def parse_file(reunions,file)
   hour_regex = /^\*\*Hora:\*\* (.*?)$/
   text.gsub!(/#{Regexp.quote(text[hour_regex, 0])}\n*/, '')
 
-  # TOPICS => VIDEO_URL
-  #video_link = text[/\(http:\/\/vimeo.com\/(.*?)\)/, 0].to_s.gsub!(/\(|\)/,'')
-  #puts video_link
+  # VIDEO URL's
+  video_regex = /\(http:\/\/vimeo.com\/(.*?)\)/
+  # for each topic, search for video url
+  reunions[file][:topics].map do |topic|
+    titles = text.scan(/#{Regexp.quote(topic[:title])}(.*)$\n*/)
+    titles.each do |found_title|
+      if found_title.to_s[video_regex, 0]
+        video_url = found_title.to_s[video_regex,0].to_s.gsub!(/\(|\)/,'')
+      end
+      topic[:video_url] = video_url || nil
+    end
+  end
 
-  # delete topic name
-  title_regex = /\# #{Regexp.quote(reunions[file][:topics][0][:title])} (.*?)$\n*/
-  text.gsub!(title_regex, '')
-  #title_regex = /\# #{reunions[file][:topics][0][:title]} (.*?)$/
-  #text.gsub!(/#{Regexp.quote(text[title_regex, 0])}\n*/, '')
-  #SPONSORS
-
+  # SPONSORS
+  #@TODO
+  
   # PARTICIPANTS
-  # participants = text[/@(.*?)$/, 1].to_s
-  #  puts 'PARTICIPANTS: ' + participants + "\n\n"
+  participants_regex = /\n\#\#\# Asistentes(.*)/m
+  if text[participants_regex, 0]
+    participant_list = text[participants_regex, 1].to_s.sub!("\n*([Edita](?m=edit) la página y añádete si tienes previsto venir)*\n\n",'')
+    text.gsub!(text[participants_regex, 0],'')
+    participants = participant_list.scan(/\* @(\w*)/)
+    #@TODO => Each participant needs :name and :url
+    #* [Gerardo Barcia](http://www.gerardobarcia.com)
+    #* [@apradillap](http://www.twitter.com/apradillap)
+    #* @patriciagao
+    #* joseluis
+    #* @cavalle 🇬🇧
+    #* @_aitor ![](http://usefulshortcuts.com/imgs/flags/is.png)
+    #....
+  end
 
   # DESCRIPTION
   description = text
 
-  #puts text[/### Resources(.*?)### Asistentes/m,1]
-  #puts text[/### Asistentes(.*?)/m,1]
-  #puts text[/\* @(.*?)?/m,1]
 
-  puts text
+  #puts text
 end
 
-parse_file(reunions,'Diciembre_2010')
+reunion_file = 'Septiembre_2010'
+parse_file(reunions,reunion_file)
+
+puts reunions[reunion_file]
