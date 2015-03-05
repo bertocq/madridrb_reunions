@@ -1,4 +1,4 @@
-# RabbitMQ + Ruby # 
+# RabbitMQ + Ruby #
 
 **Fecha:** Jueves, 30 de Septiembre de 2010<br/>
 **Lugar:** Lugar: Aula The Cocktail<br/>

@@ -1,6 +1,8 @@
-## Madrid.rb Coding Dojo _(Special Christmas edition)_
+# Coding Dojo #
 
-#### **\*\*UPDATE**** Esta vez no quedamos en <del>The Cocktail</del> sino en [**Utopic_US**](http://www.utopicus.es/) ([mapa](http://maps.google.es/maps?f=q&source=s_q&hl=es&geocode=&q=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid&sll=40.396764,-3.713379&sspn=10.504732,23.269043&ie=UTF8&hq=&hnear=Calle+de+la+Concepci%C3%B3n+Jer%C3%B3nima,+22,+28012+Madrid,+Comunidad+de+Madrid&lr=lang_es|lang_en&view=map)) – Dec 30th – 19:45h 
+**Fecha:** Dec 30th
+**Hora:** 19:45h
+**Lugar:** [**Utopic_US**](http://www.utopicus.es/)
 
 **ZOMG!** Para la quedada de Diciembre del grupo de usuarios de Ruby de Madrid, contagiados por el espíritu festivo propio de las fechas, proponemos acabar el año con estrella invitada y actividad especial. 
 
@@ -13,7 +15,7 @@ La quedada será el **Jueves, 30 de Diciembre**, a las **19:45**, en [**Utopic_U
 Como siempre, cualquiera es bienvenido (sea a participar o sólo a mirar) pero esta vez os pedimos que, si tenéis previsto acercaros, os apuntéis en la lista de abajo para poder gestionar adecuadamente el tema del espacio.
 
 ### Asistentes
-_(Edita la página y añádete si tienes previsto venir. No pasa nada si no estás seguro, es para asegurarnos de que hay espacio para todos)_
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @ecomba
 * @cavalle

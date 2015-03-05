@@ -27,7 +27,7 @@ Time permiting, I will try to cover the following subjects, some superficially, 
 
 ### Asistentes
 
-*(Edita la página y añádete si tienes previsto venir)*
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @christos
 * @cavalle

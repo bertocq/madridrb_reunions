@@ -1,7 +1,7 @@
 # A [git] workflow
 
 **Fecha:** Jueves, 27 de Enero de 2011<br/>
-**Lugar:** [Vivero de Empresas Puente de Vallecas](http://www.madrid.es/portales/munimadrid/es/Inicio/Buscador-Avanzado/Vivero-de-Empresas-de-Puente-de-Vallecas?vgnextfmt=default&vgnextoid=ee3866ad9d650210VgnVCM1000000b205a0aRCRD&vgnextchannel=102f43db40317010VgnVCM100000dc0ca8c0RCRD) ([mapa](http://maps.google.es/maps?f=q&source=s_q&hl=en&geocode=&q=Calle+de+la+Diligencia,+9,+Madrid&aq=0&sll=40.383103,-3.656814&sspn=0.009186,0.019205&g=Calle+de+la+Diligencia,+9,+28018+Madrid,+Comunidad+de+Madrid&ie=UTF8&hq=&hnear=Calle+de+la+Diligencia,+9,+28018+Madrid,+Comunidad+de+Madrid&ll=40.384164,-3.656602&spn=0.009186,0.019205&z=16))<br/>
+**Lugar:** [Vivero de Empresas Puente de Vallecas](http://www.madrid.es/portales/munimadrid/es/Inicio/Buscador-Avanzado/Vivero-de-Empresas-de-Puente-de-Vallecas?vgnextfmt=default&vgnextoid=ee3866ad9d650210VgnVCM1000000b205a0aRCRD&vgnextchannel=102f43db40317010VgnVCM100000dc0ca8c0RCRD)<br/>
 **Hora:** 19:45h (Se empezará puntual pues a las 21h hay que haber terminado)
 
 Todos sabemos usar Git (o estamos a un [libro](http://progit.org/) de distancia de ello) pero, ¿cómo sacarle mayor partido? 
@@ -24,7 +24,7 @@ Desarrollador, ciclista urbano y del Atlético de Madrid. También conocido como
 
 
 ### Asistentes
-_(Edita la página y añádete si tienes previsto venir. No pasa nada si no estás seguro, es para asegurarnos de que hay espacio para todos)_
+*([Edita](?m=edit) la página y añádete si tienes previsto venir)*
 
 * @samlown
 * @bomberstudios

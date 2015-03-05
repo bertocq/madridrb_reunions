@@ -3,7 +3,7 @@
 
 In console
 ```
-ruby test.rb
+ruby convert.rb
 ```
 
 1. Reads the content from https://madridrb.jottit.com/?m=edit and gets only the list of reunions, then writes it to a file *reunions.txt* (if it exists already then skips this step).
@@ -13,9 +13,9 @@ ruby test.rb
 3. Visit every _(internal)_ link with the ?m=edit option to access the markdown version of the reunion, and store the content in the correspondent mont_year.txt file under **./reunions** directory _(the file for the link https://madridrb.jottit.com/f%C3%BAtbol.rb_julio_2011 needs to be retrieved manually because the non-ascii character)_
 
 
-To force the download of data from jottit.com overwriting existing files use:
+*To force the download of data from jottit.com overwriting existing files use:*
 
 ```
-ruby test.rb -d
+ruby convert.rb -d
 ```
 

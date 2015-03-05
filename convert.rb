@@ -125,6 +125,55 @@ text.each_line do |line|
                                    year: year, topics: topics, file: file || nil }
 end
 
+
+
 # write json file with all gathered data
-puts 'Writting ./reunions.json'
-File.write('./reunions.json', reunions.to_json)
+#puts 'Writting ./reunions.json'
+#File.write('./reunions.json', reunions.to_json)
+
+
+def parse_file(reunions,file)
+  text = File.open("./reunions/#{file}.txt").read
+
+  # obtain and clean additional data
+  text.gsub!('<br/>', '')
+
+  # LOCATION
+  location_regex = /\*\*Lugar:\*\* (.*?)$/
+  location = text[location_regex, 1]
+  text.gsub!(/#{Regexp.quote(text[location_regex, 0])}\n*/, '')
+
+  # delete date
+  date_regex = /\*\*Fecha:\*\* (.*?)$/
+  if text[date_regex, 0] then text.gsub!(/#{Regexp.quote(text[date_regex, 0])}\n*/, '') end
+
+  # delete hour
+  hour_regex = /^\*\*Hora:\*\* (.*?)$/
+  text.gsub!(/#{Regexp.quote(text[hour_regex, 0])}\n*/, '')
+
+  # TOPICS => VIDEO_URL
+  #video_link = text[/\(http:\/\/vimeo.com\/(.*?)\)/, 0].to_s.gsub!(/\(|\)/,'')
+  #puts video_link
+
+  # delete topic name
+  title_regex = /\# #{Regexp.quote(reunions[file][:topics][0][:title])} (.*?)$\n*/
+  text.gsub!(title_regex, '')
+  #title_regex = /\# #{reunions[file][:topics][0][:title]} (.*?)$/
+  #text.gsub!(/#{Regexp.quote(text[title_regex, 0])}\n*/, '')
+  #SPONSORS
+
+  # PARTICIPANTS
+  # participants = text[/@(.*?)$/, 1].to_s
+  #  puts 'PARTICIPANTS: ' + participants + "\n\n"
+
+  # DESCRIPTION
+  description = text
+
+  #puts text[/### Resources(.*?)### Asistentes/m,1]
+  #puts text[/### Asistentes(.*?)/m,1]
+  #puts text[/\* @(.*?)?/m,1]
+
+  puts text
+end
+
+parse_file(reunions,'Diciembre_2010')
