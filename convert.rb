@@ -128,8 +128,8 @@ end
 
 
 # write json file with all gathered data
-#puts 'Writting ./reunions.json'
-#File.write('./reunions.json', reunions.to_json)
+puts 'Writting ./reunions.json'
+File.write('./reunions.json', reunions.to_json)
 
 
 def parse_file(reunions,file)
@@ -166,7 +166,7 @@ def parse_file(reunions,file)
 
   # SPONSORS
   #@TODO
-  
+
   # PARTICIPANTS
   participants_regex = /\n\#\#\# Asistentes(.*)/m
   if text[participants_regex, 0]
@@ -190,7 +190,7 @@ def parse_file(reunions,file)
   #puts text
 end
 
-reunion_file = 'Septiembre_2010'
-parse_file(reunions,reunion_file)
+#reunion_file = 'Septiembre_2010'
+#parse_file(reunions,reunion_file)
 
-puts reunions[reunion_file]
+#puts reunions[reunion_file]
